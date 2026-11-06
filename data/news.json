@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T09:05:36.760Z",
+ "updated": "2026-11-06T09:55:27.316Z",
  "categories": {
   "ia": {
    "label": "Intelligence artificielle",
@@ -16,20 +16,42 @@
  },
  "counts": {
   "ia": 60,
-  "finance": 54,
+  "finance": 60,
   "monde": 60
  },
  "articles": [
   {
-   "id": "4befd6203e51",
+   "id": "f158e40dba08",
    "cat": "ia",
-   "title": "IA et cinéma, que faire ?",
+   "title": "Confrontés au séisme de l’IA, des mathématiciens cherchent des pistes de cohabitation",
+   "summary": "Face aux avancées de l’intelligence artificielle, les « matheux » tentent de réfléchir aux transformations de leur métier. C’est dans ce cadre que plusieurs dizaines d’entre eux se sont réunis, mardi, à Paris pour des ateliers d’une journée.",
+   "link": "https://www.lemonde.fr/sciences/article/2026/11/06/confrontes-au-seisme-de-l-ia-des-mathematiciens-cherchent-des-pistes-de-cohabitation_6807757_1650684.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/01/22/250/0/3000/1500/644/322/60/0/b0242cb_upload-1-6zuflj8298qw-fond-17.jpg",
+   "date": "2026-11-06T09:30:10.000Z"
+  },
+  {
+   "id": "85fae87af524",
+   "cat": "ia",
+   "title": "\"Si nous n'utilisons pas l'IA, nous serons submergés\": malgré le risque de plaintes abusives, le président de la Cour européenne des droits de l'homme appelle à utiliser l'intelligence artificielle pour continuer à \"rendre la justice\"",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVRZQXlVZlppanpzbHdWNUVoaHpKSjk5OWJIWElwUkVXUkJLeWF6djlCdThLVlh4YlBVRDNXZnV3VVdWdmk1V3REeEdaaXdVNzRXS2dORDZLUENTVVM5ZndwMElCWmNhQnEyRC02WHVjYWxlaXhuXzdJbk50cWJ2SHBmQXlldE0?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQQlhnWEtNdU9vRkNpTjdUREl1OWVmTFRXdTk0VlZ5YzB3cXV1c1p5WXF6ek1KSFMxM1pxalU3RzREMm5kT0tXMVFhWjA0VnpleUpQYXI5bklWV1R4NFJSN1lKXzVoblJOdGViZ1RnSkVUVUFld3pMOTBFcC1FUzlJb0RHODFLN0FGVUhNUmxBMExmNzNNMDBRTzVYNzg0YlVTU1lYaWhkanpLZGNhZUZNY2pxdjdUUm54Ql95a2VRSnAzeXRsd3ZTcGI1X3FKajNVc0FGRnFacEd1d25wVjZkWGw1WjNOTk5sRVk4Uy1kWXEyM25KTUFpRkNLbjkzdGFIQW1aUU15VVp1ak05Z0xHWUJSRk5qVkJWb0NCdnNpSEplaXJoSnNCdnRkSmdpM004WTA3Q1BNeVI4dVBhRVc5Uy12YkNwa3Foc1FGYl9PdllYZVM3SkpQUmRRM3FJeDA4b1RGb3l0a292Z096dEtSSUR1dGdfZmhFc05LdmtLYWZZc1hlWWtWYnNkdmxsNkdYS1ctMTFpNHZpdVN5ZndEWTROSTdQeXcxSXNfbWN3?oc=5",
    "source": "BFM",
    "lang": "fr",
    "image": "",
-   "date": "2026-11-06T08:37:53.000Z"
+   "date": "2026-11-06T09:05:19.000Z"
+  },
+  {
+   "id": "279a7195f167",
+   "cat": "ia",
+   "title": "Les chercheurs soutiennent que les agents d’IA ont également besoin de « dormir »",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1VVk83Zlk4V1hPUTFCYTJvR05EeFhjTUlQZmJpd3ctS3A3blZoSFNnYXpXQ1BEMDVmTmlMM1RZWFBuUkFIaFRmWVJrY0hZTU9SNHg3THhWZjFyRFhvTGFtQnhKZmY4cVF4bi1fUjZJczkyU05NaTZTZ1ZiX0Y3VGxDSTdtMFZrMnhHb2FzVFE5TU8yS2xtZXk1MjNJUDE4WFplS0ZnWHRFeURubVZfQ1gzRkNzZHhyWHc?oc=5",
+   "source": "Atlantico",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T09:02:51.000Z"
   },
   {
    "id": "eebaa8007c16",
@@ -76,6 +98,17 @@
    "date": "2026-11-06T07:56:00.000Z"
   },
   {
+   "id": "8d876acfa724",
+   "cat": "ia",
+   "title": "S3NS ouvre l’IA générative sur PREMI3NS, et vend l’inférence à un tarif horaire prédéfini",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX1Q4VnRIVGVyT1l5LUo4MlZHb19XMUlGWmlPMFpqNkkycUJubEVWSmp5VmtzenlxZXJyLXVXQnBJY1NJTHNJVWJ6UGNBZTRPb0VRLTJLS0ZvQWxVTTRXTlVmM1c4U2EzbHZSMHl2NEhKckZ5SWVwSEVUUWF3b2tDTmZIZ1JvaTEwNHQ0U2NYU0tOVTRYbXFGUGVPN3R6OWJPdWxQZXNMd3FWREM4OFhhRFRFUml0NGtFR2ZqdWdtZTZqMlFLb1RLRGNrc0lBMjRJMExrUmVDZWxDT2V6aF9aTHVCb1dZOTNVeVZzSldiOGowOWRQbUEyUWZIUHp3QkUzMmVn?oc=5",
+   "source": "it social",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T07:51:30.000Z"
+  },
+  {
    "id": "dbff08ef0f8a",
    "cat": "ia",
    "title": "Intelligence artificielle : Google accusé d’avoir laissé son IA Gemini aider une adolescente américaine de 13 ans à planifier son suicide",
@@ -87,17 +120,6 @@
    "date": "2026-11-06T07:19:24.000Z"
   },
   {
-   "id": "0f9b57ff19e4",
-   "cat": "ia",
-   "title": "Quand la numérisation et l’intelligence artificielle bousculent les finances de l’aviation mondiale",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUZtaHhwN0xScjEyRF9ocThCamNkdUJmLV80RERKM0phbk5XOHNrYldNdFhaWDFVT1NpazVyb1B2MDNEbnJDSTlrSkFBaVdMTm1IbkxUMEYzQ1U3Y2c5VDdnbTFLblhMZlFzWDlDOEdxcE9Ebnl0TmVvWjl1dlJtWUdUZnc5VWJjMlppLXZFZ0JudTZSVTcySnpWSGtjenVjLVlRVmhnMDg4U1VYSmRLNEkzQXQxQnhfNTMyWFNWeXlMSUZPX2c?oc=5",
-   "source": "LaQuotidienne.fr",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T07:18:52.000Z"
-  },
-  {
    "id": "2b32bd42f551",
    "cat": "ia",
    "title": "Nvidia, Intel, ASML, Soitec : les craintes d’une règlementation américaine plus stricte malmènent les industriels de l’intelligence artificielle en Bourse",
@@ -107,6 +129,17 @@
    "lang": "fr",
    "image": "",
    "date": "2026-11-06T06:55:32.000Z"
+  },
+  {
+   "id": "89ad553cfc8a",
+   "cat": "ia",
+   "title": "«Il y a du sang dans les rues»: les géants de la tech dévissent après la victoire des démocrates aux élections américaines",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOaDRsTUNYSzFuaDl5RG1rT01uY2hSSGRfQnlKWDNrS29HZFFBYk1oUHVUSGNaTkt6b0lTYnRXeVVsN2cxNXN5OHp1RDZELVNkcVFBb2NrNmx0X0YyeUpEZmpLME9MMDNwQXctaEVnTmZuOWttSlU3T09RcmhWM3RRZm1FWG0ySTlZaTN0ZXhQRTdIdUNaLTJBQnk0RDk4RUlpQlNINjNpb2d4NkJtYm5XS1pBVUE3TFNzZWQ4dnNldS0taUUzZXQ0YlpLUUsxbGxLQ2VXdkpyeXdJQllNVXZyMC1kbEFVbDZZTG5rNnFHaDJ2Nk4zLXpUNUZ5RzBSSU5QMHM3SjlhcjVmUERhOE52dWZjSXpCVHZOU0hSTmlkdnRvX1F3UndnSWR3Zm02NGxvZWdhcw?oc=5",
+   "source": "Libération",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T06:51:00.000Z"
   },
   {
    "id": "34fb19f08eb7",
@@ -131,15 +164,15 @@
    "date": "2026-11-06T06:28:32.000Z"
   },
   {
-   "id": "b39b16a2fd50",
+   "id": "723b9e698dfe",
    "cat": "ia",
-   "title": "Intelligence artificielle : les valeurs boursières de l’IA s’effondrent après la victoire des démocrates aux élections de mi-mandat américaines",
+   "title": "La moitié des Français utilisent l'intelligence artificielle pour leur santé, selon les résultats d'un baromètre",
    "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQYkJfSk5pdTFKX2dtR0tCMnVqbFQ2dWlNMUNrVFFocklxLWRuOXQ4Y1k5dkhQUnBxcXBiSXgxc3JTbzNXOC1iV3l0TGZldWhiVVBudnIxODNZbFhrc0NPaTg1azROcXg4YmlSMTg2SVhVeTlrOTRLMllhWjlTMlk0UlpvLVdacG1XQV81dEdDS3dpeE9xYnFDU29HaXd0dmJ0YzVTRWRrMnk1c0gyV2YwRUppOVBKR0xUdDJFOGpTWGpuV0dPVy1FTzk5YmxjWDFzR3RpOUx1MHpndlJYMHhDVmtyODYzRTVJZzlwMHhEX2FmZVFjX2l4SS0xaVNTUzNiamx5MmpkZC1BQW1Sb2huRWszeXJPcEIxWTY0Wg?oc=5",
-   "source": "Sud Ouest",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbmNYaHg2TDctbUZxaFhWY2t1QmU2TXFUZ0loZjNDeG5HM21lZnVfY3VIM2w4ajJaSXlsZEFCYVFoQTRuUjZmY2xwdTRIWGlMS2hCVURaWmRzZktxRDZNeGtTTUc4ZExWcmNnNDNBWGFZbU1meDEwZE5kQjNXeVdVQWJMOHNSR3haMnUzd00wNTVPWFdDMGlwMEFxNThaTlZkMTlj?oc=5",
+   "source": "Radio France",
    "lang": "fr",
    "image": "",
-   "date": "2026-11-06T06:14:56.000Z"
+   "date": "2026-11-06T06:09:00.000Z"
   },
   {
    "id": "9dc52cfb5be3",
@@ -186,17 +219,6 @@
    "date": "2026-11-06T06:01:00.000Z"
   },
   {
-   "id": "2194815810a2",
-   "cat": "ia",
-   "title": "«Un reporting qui demandait une semaine peut désormais être réalisé en 2 heures» : l’IA bouleverse le travail des directions financières",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMnBIcW9RRm9LUXUydXJHQXFiY05Ia2xzTEVxV3RZVURBV3JTMWFtU01mZEwway1KZDUwcVVVVlg5MFUwekNucWx1anU3M0ZaV3lpRkJmeUJPYmJhcDhnalMyVE1LNFg0RTJBSnZ6Uko3QzBJM0N2R3FreEt3S1hXMS1tajlyemJMOUtkOWc0RXJLeWM1Wkc2NzRvVV84WmdwaENyY1Zpc05aX2NEUnhiV09Sa0JJYU5mVDl2VDkyaTFBNFdsMGtUeGppRzNmcDNzX0pGcU9JUTVieU9mdDVGbzlUOEJrZ3VSUHRnX2ZIejdPaWdERDNmbHFGVUZuTjEtQ3lBc0FteVhON3Mwb2pHa3BaNA?oc=5",
-   "source": "Le Figaro",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T06:00:00.000Z"
-  },
-  {
    "id": "340c0b13644b",
    "cat": "ia",
    "title": "Morning Bid: AI's reality check",
@@ -228,17 +250,6 @@
    "lang": "fr",
    "image": "",
    "date": "2026-11-06T05:00:09.000Z"
-  },
-  {
-   "id": "d160815af718",
-   "cat": "ia",
-   "title": "L’Asie frappée par le débouclage des positions sur l’intelligence artificielle (IA) ; Taïwan se dirige vers sa pire semaine depuis 1999",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRUpJNGpIMmN5aFFVS1lQZHF5VEtpRmJiNUNjYzFfZmNjTFhqN2RUc3QwdzBnUFk2Z0xlamxPVExWeFFlbWx6TXpjUFJQZ0kxZS1yMWJSREN4VkUwNkhDOWZTSmhEUWpYWVFOLUI2LVdBTWtPdXNvaF9obXFwNkxDZ3dKTWt5WkFjdzJhcHNiODBxSUhiNmd0MGpnSDlFTjBsN2ZCSk9YbEVkejM4Nnh0NG52YUdNNGpEbXN6UkQtQTN1Z2R4NGhtZkg3UnN5ZXF0TnBSTEpMUUlZWTU2X2JCRFkwZktlSnJ1?oc=5",
-   "source": "Zonebourse Suisse",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T04:45:32.000Z"
   },
   {
    "id": "dd49d78f495b",
@@ -670,15 +681,15 @@
    "date": "2026-11-05T09:00:00.000Z"
   },
   {
-   "id": "300d91101f21",
-   "cat": "ia",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-   "link": "https://openai.com/index/merge-builds-with-openai",
-   "source": "OpenAI",
+   "id": "1f29916c35ef",
+   "cat": "finance",
+   "title": "How does it affect me if share prices fall?",
+   "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+   "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
    "lang": "en",
-   "image": "",
-   "date": "2026-11-05T08:00:00.000Z"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
+   "date": "2026-11-06T09:21:50.000Z"
   },
   {
    "id": "473319152568",
@@ -703,6 +714,17 @@
    "date": "2026-11-06T07:27:26.000Z"
   },
   {
+   "id": "082ff1f90e6c",
+   "cat": "finance",
+   "title": "Le risque de crédit de SoftBank atteint son plus haut niveau depuis quatre ans ; l'action s'effondre alors que",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOZjMwWDljQURMRzFOSHA4RjBLNi0wRktUVmJEQlh5eXBQZGxDbVpNTWpPb2ZDR2l5SGtCeG5SVm5US2gtVmdPUDBaeUpKa1hJckZ2TG55eVR0VlJmZEN0b3lGOWEzOHNkem85MWtvNjd5M2hrVGVZeFE2UDc2a2JlUTFVY2dSTWZMaXpyaHExejFvaWhRQzJDb3YxcVZ3NG53SzlNTWJqdUlSN01IQk1La0NYNlQxVmpLN0VRMDJsT291OUtVTGFkejFuSmE3QTRydjBycEJ6WTBVU1dEdzc5N0VEVnNjR1VIal9ZWVBUTXpRa2RqX1YzNGRkODdKNmp2RGdiZkttNWYxMVlmb3RScnRGS0ZobTZ3ZlBpUmhTVVpjMTB4T1RVRGlySWd0T2t2ZGJaQURaZkxfQzg4ckp5ajF2cXBiX3pLRHMxam9TaTJKTUtLbVVOSdIB2AJBVV95cUxOZjMwWDljQURMRzFOSHA4RjBLNi0wRktUVmJEQlh5eXBQZGxDbVpNTWpPb2ZDR2l5SGtCeG5SVm5US2gtVmdPUDBaeUpKa1hJckZ2TG55eVR0VlJmZEN0b3lGOWEzOHNkem85MWtvNjd5M2hrVGVZeFE2UDc2a2JlUTFVY2dSTWZMaXpyaHExejFvaWhRQzJDb3YxcVZ3NG53SzlNTWJqdUlSN01IQk1La0NYNlQxVmpLN0VRMDJsT291OUtVTGFkejFuSmE3QTRydjBycEJ6WTBVU1dEdzc5N0VEVnNjR1VIal9ZWVBUTXpRa2RqX1YzNGRkODdKNmp2RGdiZkttNWYxMVlmb3RScnRGS0ZobTZ3ZlBpUmhTVVpjMTB4T1RVRGlySWd0T2t2ZGJaQURaZkxfQzg4ckp5ajF2cXBiX3pLRHMxam9TaTJKTUtLbVVOSQ?oc=5",
+   "source": "Boursorama",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T07:12:05.000Z"
+  },
+  {
    "id": "1503771e8660",
    "cat": "finance",
    "title": "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
@@ -723,17 +745,6 @@
    "lang": "fr",
    "image": "",
    "date": "2026-11-06T06:24:29.000Z"
-  },
-  {
-   "id": "c53eb0ca5e40",
-   "cat": "finance",
-   "title": "Le risque de crédit de SoftBank atteint son plus haut niveau depuis quatre ans alors que les craintes liées à",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnY2VThYVTNGcHZpM2ViSW5VQ1ljeFpRR09OdzAzZHNPeE82UjRfUzhrVnkwVEtFRmpoUXI5YlF6a3IzS2o3dWNIdkVWdVdqMU05djVnZ2kwV04wbENyY0pfYUdQT0llS0VER1U0azljcURNeDlBTlNiYjZlMG5hZm9QS0pSOWVfcDZ4MEdqRTVnYkFodDBzbVdzbGJyY19hTlg0akkwVFMxNjhCdDh1LXY2MGlKVU9uWVFHZlB3NUM5azZOajZKNkNTQW9yNnhpcFpvci1kYUxNb3RoZmEwYTJiQ2I0aENzWEdVcW1WbFlUNzN0X3NZNFZoOGJ3cWVMb2VnbW80WUptWFpYaGJSb3lBX1hSZGt4SGZUY2pWdXRnQnB6Qy1IOFBmWlV4UTFEWGRodVZHaWFOQ2NL0gG8AkFVX3lxTE5ydjZVOFhVM0ZwdmkzZWJJblVDWWN4WlFHT053MDNkc094TzZSNF9TOGtWeTBUS0VGamhRcjliUXprcjNLajd1Y0h2RVZ1V2oxTTl2NWdnaTBXTjBsQ3JjSl9hR1BPSWVLRURHVTRrOWNxRE14OUFOU2JiNmUwbmFmb1BLSlI5ZV9wNngwR2pFNWdiQWh0MHNtV3NsYnJjX2FOWDRqSTBUUzE2OEJ0OHUtdjYwaUpVT25ZUUdmUHc1QzlrNk5qNko2Q1NBb3I2eGlwWm9yLWRhTE1vdGhmYTBhMmJDYjRoQ3NYR1VxbVZsWVQ3M3Rfc1k0Vmg4YndxZUxvZWdtbzRZSm1YWlhoYlJveUFfWFJka3hIZlRjalZ1dGdCcHpDLUg4UGZaVXhRMURYZGh1VkdpYU5DY0s?oc=5",
-   "source": "Boursorama",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T03:15:37.000Z"
   },
   {
    "id": "51f41770a322",
@@ -868,6 +879,17 @@
    "date": "2026-11-05T22:40:00.000Z"
   },
   {
+   "id": "810f7cfcaa93",
+   "cat": "finance",
+   "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+   "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+   "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+   "source": "CNBC",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-05T22:31:24.000Z"
+  },
+  {
    "id": "b04584ab153a",
    "cat": "finance",
    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
@@ -989,6 +1011,17 @@
    "date": "2026-11-05T17:24:51.000Z"
   },
   {
+   "id": "20bd67262599",
+   "cat": "finance",
+   "title": "La victoire des démocrates aux États-Unis fait trembler les marchés : la Bourse de Tel-Aviv plonge",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd243UFdYVUFVMjh0TTJZWU5Eemx0WWZyMWQ2aFlFYkQzSnZJZ0w3cEVoSXJHTlZhd3cxTmhJMWJ4SXIySjhRZkFwdUpEX2ZBdjI5aHVLQS1DOFRsWUItb1VSOHdNczlPR1o0MEJ2QzIyai1rZVNGc0RYVWEwRTFqRHJaM1VCRkRLNUE1eXpQN1h2ZmZnX01DZ0ozTVNrazM3VlBGelhETTBLc1hIdkdoUnUxdnBLQTAyQVloMllYYVQ1YzRGbzlBMnpUX1QzRHhvMlE?oc=5",
+   "source": "IsraJ",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-05T17:18:53.000Z"
+  },
+  {
    "id": "127db0d325a8",
    "cat": "finance",
    "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -1022,15 +1055,15 @@
    "date": "2026-11-05T16:48:00.000Z"
   },
   {
-   "id": "50d1694c644d",
+   "id": "bb158f4d1758",
    "cat": "finance",
-   "title": "Euronext signe un nouveau trimestre record",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazZQc210OFA1d0NaV2laeGxRQWQzdDhWbWx0WGNiMW5lNW0xTk1lMW5WQWVtdzRNVl8wZG1KRHlSMEh2ZEYzNTFEUGZqdTEyRUk0dkR6VmdMUER5SXBYUDJtTnI2SDV1S1RsOVJMZnFHQXlLR3lYLVA3TFhSc3hObHZBSksydC1yWERfTDZsOW0zU3FHYWlwVU16QmdJM0FhNmMxUmhQOXkxdHRWbHc?oc=5",
-   "source": "Les Echos",
-   "lang": "fr",
+   "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+   "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+   "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+   "source": "CNBC",
+   "lang": "en",
    "image": "",
-   "date": "2026-11-05T16:45:10.000Z"
+   "date": "2026-11-05T16:34:33.000Z"
   },
   {
    "id": "bef258dc5a28",
@@ -1099,6 +1132,17 @@
    "date": "2026-11-05T13:08:30.000Z"
   },
   {
+   "id": "b603a54a22ae",
+   "cat": "finance",
+   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+   "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+   "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "source": "CNBC",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-05T12:57:10.000Z"
+  },
+  {
    "id": "08b3a60fd234",
    "cat": "finance",
    "title": "L’autorité indienne des marchés financiers approuve le règlement net des opérations au comptant pour les fonds communs de placement",
@@ -1108,17 +1152,6 @@
    "lang": "fr",
    "image": "",
    "date": "2026-11-05T11:15:37.000Z"
-  },
-  {
-   "id": "ecc48b9deb3b",
-   "cat": "finance",
-   "title": "L'Europe continue de saluer les résultats des midterms...",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWm53cmFTUW1Kb0o5V0JidjJfd29hWmdfUGdMRWhTVEFGemREM0poOVk1QzZKOGhuLVVrRVpNTVM3ZHJZbFJCdkN4ZkNaUTZBY0JYZGNvdGdFOEVfalJSamtNQTA3Q3FXY2VIUVd2SUZaSTV2RXdJU0pxN3ZQVlNyM0FVdmdwQldPcGtndXQxZTh1ZnZEeHFmbU1HN3JrZ1lK0gGmAUFVX3lxTE92bVc1OFpDcGdXbGpNR3A0YldtNHUtTVUydkJGYjViTkdGMWJzUVVWT1VsWnhueXRUZjF6bEhMNDNqZW1JbE1Tdng2WDE5MzdVOHAwN1NGdHYzWEhKRnpNdHpPUmdpTmlPUnVIYjN3RUNoYWRTMHJxejd4TFBBZDJkeXFSUnk3dEJVanZoUGM0d2NzRDlqNXlhZFY5UjVaSEF6RXpkWUE?oc=5",
-   "source": "Fortuneo",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-05T11:08:00.000Z"
   },
   {
    "id": "4b1ff3c36792",
@@ -1132,17 +1165,6 @@
    "date": "2026-11-05T11:01:06.000Z"
   },
   {
-   "id": "e56b1c438df1",
-   "cat": "finance",
-   "title": "BCE: appel à la discipline budgétaire face à l'inflation (haute responsable)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTkJJSGlTUzJYYzg4dWYtT0cwMG05THRRSjlHNmdkM3BnQzdjQ2pXcThBalJOaklib2tabEZCQkFBSFhUaUQyTnFaS19kUXdVUDg5cmtiaDBuLVlrX3l2cWpQeUpnMzBKY3p3N3pKYjJCWkFRUk1CN2tPc2JBVTB1eDVHb1VYdDhYSFBGMGhhRkFtWUhkajVFMTlteGk0STdNNC13TFpyMFpFR2dfUnMwNkpFbGt1OTBrYllCOFhnVnVXQ0lhd0VxeE1QRDlXREM2RVpNc05iSDJCTEFrREM0OXdiX09jYnM4ZTlvOThRVS1Jd2dVYTFYUHNhNUVVRlVaZFp5QUJNelBqbDg?oc=5",
-   "source": "Bourse Direct",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-05T10:41:00.000Z"
-  },
-  {
    "id": "ee4cb96b5470",
    "cat": "finance",
    "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
@@ -1152,17 +1174,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-05T09:46:32.000Z"
-  },
-  {
-   "id": "1f0ccaba4d1f",
-   "cat": "finance",
-   "title": "Bourse : les risques qui pourraient provoquer une correction",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHRxc0VvSGktTVYwS092N3VUZWR1QXVjaHRvMVo4N0ZLSmZNaTNVbXVRNU1VRkJIUkQycklqWVZsMFJDVTNPVkxoTXozYkM1YWVYZUdMNFBURl9xZHY5VEE5Y1g3Q3RGc2w1Rm5NLUVKelZlYzVJSjZ2eWxWR2pmZHFqYUhZcTVvTTdPaV9PZ01CcjIyR3YxOFprLXVCOGptT2NUeW4tdmNwV18yeTdla2RIdG9iX0kxRFhpTURKamE?oc=5",
-   "source": "Le Revenu",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-05T07:30:00.000Z"
   },
   {
    "id": "e5f76fc9e51c",
@@ -1198,6 +1209,17 @@
    "date": "2026-11-05T04:21:35.000Z"
   },
   {
+   "id": "81427e02db50",
+   "cat": "finance",
+   "title": "PARIS : Fidel MARTIN : « La Bourse peut monter quand l'économie française ne suit plus",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOREdYNFBlX0pCbUNkZkVWWGoxeG45RWRQMUJSZkh0dXdIUEdrSTc2RFdDMFhrTUZwZVVMMlRoVGpLU0xYRk1RSFE1ekFLS05OMFpCZ1h2VjhVYWhpSzdyS2VaWW9PZk1IbU9WcG9WSG51MWgxMHZQanlLVnI1YjZBaE5VYWJmNW5ZSHR6dUxDQzhab0ZhNU5DOTZlVGphcUFzbC1GWlN4MA?oc=5",
+   "source": "Presse Agence",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-05T00:00:00.000Z"
+  },
+  {
    "id": "a3e2b24eafb5",
    "cat": "finance",
    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -1207,6 +1229,17 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
    "date": "2026-11-04T21:41:15.000Z"
+  },
+  {
+   "id": "46dcaa1a4bf4",
+   "cat": "finance",
+   "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+   "summary": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+   "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+   "source": "CNBC",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-04T21:18:44.000Z"
   },
   {
    "id": "2bc4eac53b2c",
@@ -1253,6 +1286,17 @@
    "date": "2026-11-04T18:17:00.000Z"
   },
   {
+   "id": "bf48a04e7615",
+   "cat": "finance",
+   "title": "Défaite de Trump : le calme ou la tempête sur les marchés financiers ?",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcjZLZDdkWFQwZkxTX09wUVY5WDlZSzRuY3hINmc0MGJjWHQ1YUlrSkxwendHYU91a0diSGgzWktPaDBLaGdQajBLYklLQVBwMWg2SzBHTXA1TEdRclFVT1Y0dlhWTmpPNm5ZQldVT2RfajJsdTh0OUFlek1zMHMyRFlRTTJqS1RiYTBjZk9kakQwcjNzYnZQZE9MblhDcTFObTFKUTZIUWZydUt4czRVVG9qdlFWVXpSWExiTW56WXlwZ0FYWWJLZFBOVWYxd05zanNJX0k2bjJiQjlZ0gHiAUFVX3lxTFAyY19tQm0wdXB3NjFmaUpPcmJYWDduVUg1UXFtUUd1Mk0yM242eGsySW01d2JBU1VBTDV2VzRBSGxNMVB4eU1ILWhuLV9HSHQ4QnBERTdpcmM5QWdoMDN5STlkMlVBNTM3VlI0MDlfVzBLUUFHb2o3b1JDZ2tQOU1GVnJQalZ6Y01nNlFNUlJTTER1eWNjZk5rdnl5MVdWWjFRUmVNbWxNaFMwTFFwUF9kSFB1aTkzTzBRM2lRYWxXWWZrdFFpTWhHdThfQlJRNG9KdTdhYnk5SDljNTBnMklBa2c?oc=5",
+   "source": "Boursorama",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-04T13:10:00.000Z"
+  },
+  {
    "id": "f314a8e466e9",
    "cat": "finance",
    "title": "CAC 40 : Les banques tirent l’indice vers le haut après les élections américaines.",
@@ -1264,15 +1308,92 @@
    "date": "2026-11-04T11:30:00.000Z"
   },
   {
-   "id": "a90103c50444",
+   "id": "2d7ac06492cb",
    "cat": "finance",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
+   "title": "Klaas Knot candidat à la succession de Christine Lagarde à la BCE",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOUDdDclRRZzNaTi12UGx2Z2tpN0EyYUJDWm5pTDBmOFh6MnZNQ3UzcUl4b05NVE03Z0UzbHpUaHZKRUpMTUpMS205TmNYMnNKQnE5aDl0NWtGVWRqXzFhYi1YMmxHczZmNUlxZFJkMTFKSWlPTTV1WGFzV08yV2MwakhicVFrMDd2ejV0dGlOZWhmTEM2cEVMQ2dSajV0R3Z3Nm9mOVFjR1NFemFxWXpKVlBhcERIQnBGc050dHgzZFM5amVSa29maWdURnpTZi1nUVlXVnFjZWNDYjF4eTdrMzBETXQ0NUU4TzZKR211aHg2NWhjSkNsLVh1aFVTTkc3SE5zTkZNZVdPdjI4YTkybUp4a1hGSmpOalVtcjBiREhhUXpNNlBpRTRxd0k1dw?oc=5",
+   "source": "Bourse Direct",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-04T10:42:00.000Z"
+  },
+  {
+   "id": "dd668d0c07ce",
+   "cat": "finance",
+   "title": "Stock market after midterm elections: What S&P 500 history shows",
+   "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+   "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "source": "CNBC",
    "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-03T20:53:03.000Z"
+   "image": "",
+   "date": "2026-11-03T18:21:05.000Z"
+  },
+  {
+   "id": "9d685cdf17b5",
+   "cat": "finance",
+   "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+   "summary": "Prediction markets still show the Republican incumbent favored to win a fourth term, but the odds have narrowed in recent weeks.",
+   "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+   "source": "CNBC",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-03T13:33:11.000Z"
+  },
+  {
+   "id": "462c6288e813",
+   "cat": "monde",
+   "title": "Trump signs order to preserve Oval Office as national monument",
+   "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-06T09:19:57.000Z"
+  },
+  {
+   "id": "f88e2b59ff8e",
+   "cat": "monde",
+   "title": "Guerre en Ukraine : le RN isolé au Sénat sur sa volonté de réduction de l’aide à Kiev, LFI absente du débat",
+   "summary": "Le Rassemblement national a maintenu lors d’un débat mené jeudi au Palais du Luxembourg sa volonté de cesser le soutien financier à l’Ukraine.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/06/guerre-en-ukraine-le-rn-isole-au-senat-sur-sa-volonte-de-reduction-de-l-aide-a-kiev-lfi-absente-du-debat_6807755_3210.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/10/21/341/0/6000/3000/644/322/60/0/9b8af35_upload-1-r0jlcr5gwt9h-cbi1349055.JPG",
+   "date": "2026-11-06T09:19:13.000Z"
+  },
+  {
+   "id": "ba4782ef58aa",
+   "cat": "monde",
+   "title": "Au Mexique, la concentration des data centers suscite l’inquiétude des habitants de l’Etat du Querétaro",
+   "summary": "Cet Etat frappé par une sécheresse chronique accueille plus des deux tiers des centres de données construits par les géants américains de la tech au Mexique. Les ONG dénoncent l’opacité sur leurs usages en eau et des créations d’emplois nettement moindres que celles qui ont été promises.",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/06/au-mexique-le-queretaro-concentre-les-data-centers-et-les-inquietudes-sur-leurs-consequences-environnementales_6807753_3234.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/11/06/484/0/3532/1766/644/322/60/0/ac07b1b_upload-1-wh1wrjkh3tza-000-c3ma9nu.jpg",
+   "date": "2026-11-06T09:15:08.000Z"
+  },
+  {
+   "id": "f50089afec95",
+   "cat": "monde",
+   "title": "La Suède invoque la menace russe pour prolonger les contrôles à ses frontières",
+   "summary": "Après l’immigration illégale et la criminalité organisée, Stockholm argue des risques de sabotage mené par la Russie pour justifier de sa décision d’enfreindre le principe de la libre circulation au sein de l’espace Schengen. La Norvège et le Danemark ont aussi rétabli les contrôles aux frontières intérieures.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/06/la-suede-invoque-la-menace-russe-pour-prolonger-les-controles-a-ses-frontieres_6807752_3210.html",
+   "source": "Le Monde International",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/10/15/418/0/5017/2508/644/322/60/0/5b95ab4_ftp-1-k1zqch7i1g9r-ef61e99fe0b84322a622dc2b0193418e-0-4bbc0747907743c8b5cb10cdea40019e.jpg",
+   "date": "2026-11-06T09:13:07.000Z"
+  },
+  {
+   "id": "06794c69d180",
+   "cat": "monde",
+   "title": "« Un crime dans la tête » : Denzel Washington face aux cauchemars de l’Amérique de Bush",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFVoN2tya2J0ZFJDbk9Fc0NsRHNHNEFoYVFmR2FTTVNnd1hIT3JwWTRfRkE0LWdraDNSb1otenJVVXRjYzZWRzR3WEc0Q3U4d0lVZjRUTkdWOWVjM0xENkZsalpRRDJablZKZmFoaW1GeEhDSEwtZ3VLaHlnbFBaU1Q2Z3B0V1VKWlVXVi1hbVQ3X1ZOS3Jhd1Z4TVNOcU5LWTBOS3VtYmhBaTZBZ0tsLTVxWjNTMkNYeEhKQ3FMV2VOYlNmVG1oaWk4ZHZteEk4Uk1tNnNB?oc=5",
+   "source": "Le Nouvel Obs",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T09:01:13.000Z"
   },
   {
    "id": "6de12b41d816",
@@ -1374,17 +1495,6 @@
    "date": "2026-11-06T07:33:31.000Z"
   },
   {
-   "id": "06794c69d180",
-   "cat": "monde",
-   "title": "« Un crime dans la tête » : Denzel Washington face aux cauchemars de l’Amérique de Bush",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFVoN2tya2J0ZFJDbk9Fc0NsRHNHNEFoYVFmR2FTTVNnd1hIT3JwWTRfRkE0LWdraDNSb1otenJVVXRjYzZWRzR3WEc0Q3U4d0lVZjRUTkdWOWVjM0xENkZsalpRRDJablZKZmFoaW1GeEhDSEwtZ3VLaHlnbFBaU1Q2Z3B0V1VKWlVXVi1hbVQ3X1ZOS3Jhd1Z4TVNOcU5LWTBOS3VtYmhBaTZBZ0tsLTVxWjNTMkNYeEhKQ3FMV2VOYlNmVG1oaWk4ZHZteEk4Uk1tNnNB?oc=5",
-   "source": "Le Nouvel Obs",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T07:31:13.000Z"
-  },
-  {
    "id": "e9d428db6bb8",
    "cat": "monde",
    "title": "Midterms 2026 : la Russie espère que Donald Trump poursuivra ses « efforts de paix » malgré la victoire des démocrates",
@@ -1405,6 +1515,17 @@
    "lang": "fr",
    "image": "https://img.lemde.fr/2026/11/05/67/0/5358/2679/644/322/60/0/567a3c2_upload-1-ywxgdpeblxpb-sipa-shutterstock41252752-000005.jpg",
    "date": "2026-11-06T07:30:04.000Z"
+  },
+  {
+   "id": "8152bfe9934b",
+   "cat": "monde",
+   "title": "États-Unis : malgré les cas de suicides et de dépendance chez les ados, Google, Meta et TikTok en guerre contre la régulation",
+   "summary": "",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOTJ3VzV5UFlyWVpNNURtSkt5aWg1Rk5KU0p3V3VuWXFSWFdGcnZEd0htejNXeC1fX19TQUhneE1Pc195OUo5SHppN1dZaVRnOVNDYW0zRkc3ZzVYbU5EM3dzN0dpU1I4R0k2aHBzT0tMeHpTbjh4ZmU3VkRQSWJ2aGc1cmFjekFEdmRtdDI0RDRTLVl4c2RJZWZlR0hpRnNxbVRtZ0Jhekxkc0JIM2ZOMWFvcTRfcGdsSGZxUW1JRjZEaUwtNkxJN0NCMGNFc2hKbEtGemI5X013NkQ1MGowdXRwQ09JZVlTNFVXTEtfcw?oc=5",
+   "source": "L'Humanité",
+   "lang": "fr",
+   "image": "",
+   "date": "2026-11-06T07:30:00.000Z"
   },
   {
    "id": "b76fbfe12555",
@@ -1550,28 +1671,6 @@
    "date": "2026-11-06T04:30:02.000Z"
   },
   {
-   "id": "462c6288e813",
-   "cat": "monde",
-   "title": "Trump signs order to preserve Oval Office as national monument",
-   "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC US & Canada",
-   "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/e5957760-d9b2-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-06T04:29:25.000Z"
-  },
-  {
-   "id": "739879e62dfb",
-   "cat": "monde",
-   "title": "Inde : les « cafards » défient le pouvoir",
-   "summary": "La jeunesse indienne se soulève massivement depuis le printemps, s’opposant au gouvernement de Narendra Modi, jugé autoritaire et inégalitaire. Dans ce podcast, Carole Dieterich, correspondante du « Monde » à New Delhi, raconte l’émergence soudaine de ce mouvement joyeux et puissant.",
-   "link": "https://www.lemonde.fr/podcasts/article/2026/11/06/inde-les-cafards-defient-le-pouvoir_6807614_5463015.html",
-   "source": "Le Monde International",
-   "lang": "fr",
-   "image": "https://img.lemde.fr/2026/11/05/300/0/1800/900/644/322/60/0/998a992_upload-1-mpa2ncqbe478-cafards.jpeg",
-   "date": "2026-11-06T04:00:16.000Z"
-  },
-  {
    "id": "b52cd686a800",
    "cat": "monde",
    "title": "Des États-Unis au Brésil, sale temps pour les populistes",
@@ -1581,17 +1680,6 @@
    "lang": "fr",
    "image": "",
    "date": "2026-11-06T04:00:13.000Z"
-  },
-  {
-   "id": "8ef0a1c8dd80",
-   "cat": "monde",
-   "title": "Moscou saisit les actifs russes de la société nippone Japan Tobacco, sur fond de tensions avec Tokyo",
-   "summary": "Le gouvernement japonais a réclamé, vendredi, la libération immédiate des actifs du cigarettier, dont la saisie a été ordonnée quelques semaines après l’arrestation, en Russie, d’un journaliste nippon accusé d’espionnage.",
-   "link": "https://www.lemonde.fr/international/article/2026/11/06/moscou-saisit-les-actifs-russes-de-la-societe-japan-tobacco-sur-fond-de-tensions-diplomatiques-avec-tokyo_6807512_3210.html",
-   "source": "Le Monde International",
-   "lang": "fr",
-   "image": "https://img.lemde.fr/2026/10/13/420/0/3259/1629/644/322/60/0/6994d01_ftp-1-pwkntkcf7np7-2026-10-13t093109z-1199589137-rc252oau2ord-rtrmadp-3-japan-companies-msad.JPG",
-   "date": "2026-11-06T03:24:31.000Z"
   },
   {
    "id": "8191a74cbea0",
@@ -1605,17 +1693,6 @@
    "date": "2026-11-06T03:00:46.000Z"
   },
   {
-   "id": "f918b1e925ac",
-   "cat": "monde",
-   "title": "Chasse aux livres aux États-Unis : et si la défaite de Trump changeait la donne ?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONF9SWUcxUjF3QW16OUwtMmgyd1p5SHNUOG42Z2lmckJmNTItVHFBSTdhVkdpc0xZVWNEamR6azJuWDJOdTEzZmxHV01wWkl4dUItXzhyRlhqdVhaeXRXempOX19IdkVDM0tXQm02Z3hyVUFsR1QwamQzZTl1cEdPQlh1U0g3Nk9zSjNtanNJZUt3c3MyRks4SUU1VVZFY1F0VGo5NWpCdS04SWFhbDRweEMxeW1NVXJo?oc=5",
-   "source": "La Croix",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-06T03:00:03.000Z"
-  },
-  {
    "id": "626e45a83ef4",
    "cat": "monde",
    "title": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
@@ -1625,17 +1702,6 @@
    "lang": "en",
    "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-vzelections-vzkb/05dc-vzelections-vzkb-mediumSquareAt3X.jpg",
    "date": "2026-11-06T02:42:55.000Z"
-  },
-  {
-   "id": "b523329556e9",
-   "cat": "monde",
-   "title": "Hongkong se pose en future Monaco asiatique",
-   "summary": "Depuis des décennies, le territoire se compare à Singapour, et réciproquement. Mais c’est désormais davantage à la Principauté qu’il a l’intention de ressembler, ambitionnant de devenir la capitale asiatique du yachting.",
-   "link": "https://www.lemonde.fr/international/article/2026/11/06/hongkong-se-pose-en-future-monaco-asiatique_6807479_3210.html",
-   "source": "Le Monde International",
-   "lang": "fr",
-   "image": "https://img.lemde.fr/2026/11/06/707/0/4242/2121/644/322/60/0/166ad4d_upload-1-bqzv8646yxqf-000-b73j7g3.jpg",
-   "date": "2026-11-06T02:30:10.000Z"
   },
   {
    "id": "a390abf09983",
@@ -1882,7 +1948,7 @@
   {
    "id": "d5a7fca5d4eb",
    "cat": "monde",
-   "title": "Etats-Unis : le gouverneur démocrate de Californie commue la peine de 548 condamnés à mort",
+   "title": "Gavin Newsom, le gouverneur démocrate de Californie, commue la peine de 548 condamnés à mort",
    "summary": "Gavin Newsom, candidat probable à l’investiture démocrate pour la présidentielle de 2028, dénonce un système incapable d’être « mis en œuvre de manière équitable ». Sa décision, annoncée jeudi 5 novembre, concerne un quart des condamnés à mort aux Etats-Unis.",
    "link": "https://www.lemonde.fr/international/article/2026/11/05/etats-unis-le-gouverneur-democrate-de-californie-commue-la-peine-de-548-condamnes-a-mort_6807346_3210.html",
    "source": "Le Monde",
