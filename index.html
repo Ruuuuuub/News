@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>La Matinale</title>
+  <meta name="description" content="Toutes les actus du matin : intelligence artificielle, finance de marché, USA & Monde — et un quiz pour vérifier que tu es au point." />
+  <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#f6f7fb" media="(prefers-color-scheme: light)" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="assets/icon.svg" alt="" class="logo" />
+      <div>
+        <div class="brand-name">La Matinale</div>
+        <div class="brand-sub" id="updated">Chargement…</div>
+      </div>
+    </div>
+    <div class="top-actions">
+      <button class="icon-btn" id="btn-saved" title="Articles sauvegardés" aria-label="Articles sauvegardés">
+        <svg viewBox="0 0 24 24"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+        <span class="badge" id="saved-count" hidden></span>
+      </button>
+      <button class="icon-btn" id="btn-theme" title="Changer de thème" aria-label="Changer de thème">
+        <svg viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+      <button class="icon-btn" id="btn-refresh" title="Actualiser" aria-label="Actualiser">
+        <svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 1 0-2.3 5.7M20 4v7h-7"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs" aria-label="Rubriques">
+    <a href="#brief" data-tab="brief"><span class="ti">☀️</span><span class="tl">Brief</span></a>
+    <a href="#ia" data-tab="ia"><span class="ti">🤖</span><span class="tl">IA</span></a>
+    <a href="#finance" data-tab="finance"><span class="ti">📈</span><span class="tl">Marchés</span></a>
+    <a href="#monde" data-tab="monde"><span class="ti">🌎</span><span class="tl">USA & Monde</span></a>
+    <a href="#quiz" data-tab="quiz"><span class="ti">🧠</span><span class="tl">Quiz</span></a>
+  </nav>
+
+  <main id="view" class="view" aria-live="polite"></main>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "la-matinale",
+  "version": "1.0.0",
+  "private": true,
+  "description": "La Matinale : actus IA, finance de marché et USA/Monde + quiz quotidien",
+  "type": "module",
+  "scripts": {
+    "news": "node scripts/fetch-news.mjs",
+    "start": "npx --yes http-server -c-1 -p 8080 ."
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0"
+  }
+}

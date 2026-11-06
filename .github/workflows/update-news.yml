@@ -1,0 +1,62 @@
+name: Actus du matin
+
+on:
+  schedule:
+    # Heures en UTC (Paris = UTC+1 en hiver, UTC+2 en été)
+    - cron: "15 4 * * *"          # ~5h15 / 6h15 : brief du matin (+ quiz Claude si clé API)
+    - cron: "15 7,10,13,16,19 * * *" # rafraîchissements dans la journée
+  workflow_dispatch: {}            # bouton « Run workflow » pour lancer à la main
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actus
+  cancel-in-progress: false
+
+jobs:
+  actus:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Récupérer les actus (+ brief Claude si la clé existe)
+        run: node scripts/fetch-news.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Enregistrer les actus dans le dépôt
+        run: |
+          git config user.name "la-matinale-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then echo "Rien de nouveau"; exit 0; fi
+          git commit -m "Actus du $(TZ=Europe/Paris date '+%d/%m/%Y %Hh%M')"
+          git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Préparer le site
+        run: |
+          mkdir _site
+          cp -r index.html styles.css app.js sw.js manifest.webmanifest assets data _site/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
