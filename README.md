@@ -18,10 +18,10 @@ Les actus se mettent à jour **toutes seules** chaque matin vers 5h–6h, puis p
 
 ## Mettre l'appli en ligne (une seule fois, ~5 minutes)
 
-1. Sur GitHub, fusionne cette branche dans `main` (bouton *Pull request* → *Merge*).
-2. Va dans **Settings → Pages**, et dans *Source* choisis **GitHub Actions**.
-3. Va dans l'onglet **Actions** → *Actus du matin* → **Run workflow**.
-4. Après 1–2 minutes, ton appli est en ligne à l'adresse :
+1. Sur GitHub, va dans **Settings → Pages**. Dans *Build and deployment → Source*, choisis **GitHub Actions**.
+2. Va dans l'onglet **Actions**. Si un bouton vert *I understand my workflows, go ahead and enable them* apparaît, clique dessus.
+3. À gauche, clique sur **Actus du matin**, puis **Run workflow** → **Run workflow** (bouton vert).
+4. Attends la coche verte ✅ (1–2 minutes). Ton appli est en ligne à l'adresse :
    `https://<ton-pseudo>.github.io/<nom-du-dépôt>/`
 5. Sur ton téléphone, ouvre ce lien puis *Partager → Sur l'écran d'accueil* (iPhone) ou *Installer l'application* (Android).
 
