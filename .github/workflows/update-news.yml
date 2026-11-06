@@ -1,3 +1,4 @@
+# Met à jour les actus et publie le site (GitHub Pages).
 name: Actus du matin
 
 on:
@@ -7,7 +8,7 @@ on:
     - cron: "15 7,10,13,16,19 * * *" # rafraîchissements dans la journée
   workflow_dispatch: {}            # bouton « Run workflow » pour lancer à la main
   push:
-    branches: [main]
+    branches: [main, "claude/ai-finance-news-app-i47huf"]
 
 permissions:
   contents: write
