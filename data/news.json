@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:38:45.178Z",
+ "updated": "2026-11-22T15:15:16.921Z",
  "categories": {
   "ia": {
    "label": "Intelligence artificielle",
@@ -15,252 +15,21 @@
   }
  },
  "counts": {
-  "ia": 60,
-  "finance": 59,
-  "monde": 60
+  "ia": 46,
+  "finance": 30,
+  "monde": 58
  },
  "articles": [
   {
-   "id": "5f9e62d161d9",
+   "id": "0f50037c76f2",
    "cat": "ia",
-   "title": "Anthropic’s debut no cure for market’s AI negativity | Technology",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTFdvTVlrTldvWnBzdnlpQWUwWEZQUS1kWjNFYWpRa1FwOXVDeERZRmlOazh1VVZCdFQ0MTdwSV9jOFhlU0hzRWhYS3RKZWhEOEVmYTVfLXlYX29TQWlPZk1tZk5idzlsTUxpQm9MMHJCZGJHS181eWdTd2VjT3k4OVczSDBjWXhMaWJVR3I2Mk1CS2RPdHRIZ3BTaUhNZmxVZUhJbVpReU5WTjlDMW1sM3dZd1lGVGhYYUs2UWRnQ3FTQnRKVVdzbUR4ZFZIQXpTLVcwckhrNVFITXVmaHc?oc=5",
-   "source": "San Francisco Examiner",
+   "title": "The vibe-coding revolution is coming to all the gadgets",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+   "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+   "source": "The Verge",
    "lang": "en",
-   "image": "",
-   "date": "2026-11-22T12:00:00.000Z"
-  },
-  {
-   "id": "cbb5c43eee55",
-   "cat": "ia",
-   "title": "Orange rappelle que l’IA ne transmet pas tout",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NSENoT1dqcHhacmh2TDVwS1NySlZMYWZuTENCc2ZjbEd0QzBLZG9odEtaa1kxdmFaV0tQSEUwaUU0UlRTN3JsSU5tZ1MtbXBNejcxWVVXS2k0enBramVSdm1IV2h5Q2VJQmREdG84MzVCb010Z0FaeA?oc=5",
-   "source": "CB News",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:48:42.000Z"
-  },
-  {
-   "id": "be1fc8f121dd",
-   "cat": "ia",
-   "title": "L'IA et le « syndrome de la photocopieuse » : comment une révolution créative pourrait appauvrir notre culture",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbXNDNjJSdWJxRDRnVlpSenpqVXVLc2hxSVV6eW5EM3d3U3lRdkJEWEtPREJBUE5qNzc4UDlxeDE0YVhlUnI3UHpOZFduZWJMbzE5TDBhZG0ySEJjek44N3Q5T3lGa1ZQakxSaWFCTzJPdVpEbW4yNEQ4b2pjeHEzcGRldThaVktGdnZ3ZHVzYlRFUG9wbmx6RjFyVENtb2k3a01DdUIzTnhwU19vUUhhTWRCaU5xaUY1M2Z3b29ac0pzUmpRZy1EdHNScGhrQXcteDhQSDF1MzU0cldTTjRQdElxTjYyeU9uMGk3Yko4bm04UQ?oc=5",
-   "source": "Futura, le média qui explore le monde",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:23:00.000Z"
-  },
-  {
-   "id": "37ddce249d94",
-   "cat": "ia",
-   "title": "En Corée du Sud, le ministre de l’Education démissionne après un scandale de triche à l’IA",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZjFwUDQ1MnJwa21jOEtteWYwQVh1M25sdEZvZmw4UzdFbngzWTlMc0EwSXlwZXZnUm0xazRnd1JyTWNoR0Y1VUlnMjZTc052Q0tBUHNKeDdkcXY4SzZuQWU2N25CdEEyY3hFOXpRdllUX1R4cHlMR1lRTm50ZkRuazBhZi1vMDJ1M1loRGpjRlBLWUlOSnJZVkxSZ2owZ0VVbTU0RWRaSHJ4bGdsTWhlVlVqTGZ6dVB4X211dHdtYXRDbDc5czJtZmg0bFFhZjRsRktJd1NnckxZU2tNU0xDVXl2blhrbFJLMW92NjcyQWJNand2eEFMQ3o1WlRnTGxpYjR5SWQ1d2xmbkU?oc=5",
-   "source": "Libération",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:21:00.000Z"
-  },
-  {
-   "id": "8572fea337f5",
-   "cat": "ia",
-   "title": "La mort par algorithme : le coût humain de l’IA sur le champ de bataille",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOYXZpbk5xS1VUZmU2U3F5dFhxcFVLSjRVWHNMNERQNEVzRmZjcmh3Yl9nU3NuNnRMSVdVcGlHYloyQU1yQmN5bmJveFI2SFliN19EQlBqMXVRVUg3SVU1TjJYTzd3akZzeHRSWHBYVmVhZWZqYThZS3laZFpoQmJyeS1hQ1FxVjdYWUVLbXVhT18yajUxZTk5REZLaWJpVGVWbVZCSXdOSS1oZ0s0MFdLaHNVcHQ3WTdNRmF1OExLT0RtY2hZMDBFRmI5OVlYWjRTMXVlbWotV0t3UmozTUtKZFFJSFBXbjJYTkRGOC0zSUR4VEVXV3c0eFFNdmZHdVg0S2c3dVYzWm11YU5VcW5nM2VWWGpPWThjUlJ0ZzJpWlRFQWVVTVhtWEYwTUtiZDZj?oc=5",
-   "source": "Atlantico",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:10:55.000Z"
-  },
-  {
-   "id": "d41f140f118b",
-   "cat": "ia",
-   "title": "Amélie Cordier : passer de la théorie à la pratique de l’IA",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmhHVkZaN3AyaTFPRlJKQzZwZ09yUV84M1VCUjhuZHp2VTdoeFJLdkdlVG1xMHF1OG04bHRUOXdrT3pzb1pnUEJwZ1RHY1BnVHEwaDNBcGdHbHNqT1JqbU04Y2w5WjFNczV5VXhqcUoybmdTTG1KbkpVMmFVcXkxcUY5Rll2SXBkVzhzb0hMYm9qcEQtX0V1ZUJLRlQxT0lEQl9wV1ZvOXc?oc=5",
-   "source": "Informateur Judiciaire",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:00:00.000Z"
-  },
-  {
-   "id": "cf8b106d5c19",
-   "cat": "ia",
-   "title": "Dev squeezes an AI language model onto a floppy for 486DX and Pentium PC stalwarts — Tiny 2.1 needs 540KB of memory and speaks via PC speaker, is a question-answering transformer with 367K parameters",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNVFdRcVJUSlZKaDM5RmpfNzBxdEtSWDJJY1VMbWlRUnM4ejVldWsxa1RDM3hKY3N3ckptR0dzdjROWks0ZWVQLS1NaGZxZjBYTmg1alc3NlNLSEQyRFhwTENTcFNlN1o2akVaQmRYM0s1LURaQ2RyWTVsdGdqbWxnZlJiMDV4ZG5zREpRR0FYZlpKRnI1T2ZTZF91V2pTZDQwWHNIZHBEVTZCMmRoOUwxSDJDUFF5bi1kTzRta0huRF91RVc5T2xMMjV5UnJqQ3cxcF9BblVVMExicVg5U09uZFR3dXpqVTAxckpTUHZiOHUwREVRRHhxMzJLc0d6Y2FVRWktQ2VucnFmd2htQ0U0NVd4UXZ4aS1xeTdaUmdpNjRfVXdnVTVaVS1uZE91VXZRMmN1MzB2LWZicTdSNEVlTlhwWXNmUkhxWXhOeTF4NXhBMjVxTXNoQWQ5Ync4MmdiSTJZbHR3Yjl6YUpTRmZZSnBBWmk3VTNsZ3RJ?oc=5",
-   "source": "Tom's Hardware",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T11:00:00.000Z"
-  },
-  {
-   "id": "cadec1f5894b",
-   "cat": "ia",
-   "title": "41.6% of Berkshire Hathaway's $358 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHZwendMTjFORVBNdGZ1VEVHeXZWVWtSRjVTT0JfVVpLeWRBS0YtTnptTEJzRjFfR3FUS1VMd1NhVGZ6ZUc4WlNUUTBpQ2lvRnE5QmVzTDdvMHd4OFY2VXJKc1Qtem4zclRQTmQxdmZNamNQYmNaT3R4VzJENTJuTFJ4ZU85akxHWGtmSWJUcWxVNnJ0ck5sVGY1MmN4T19SNmh3WUh0ZzNuTWYzbFZvY19EeVNyZjFBNEItbURWcjVOQ1YtMjJGd29YUWE?oc=5",
-   "source": "The Motley Fool",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T10:51:02.000Z"
-  },
-  {
-   "id": "0521c6d52774",
-   "cat": "ia",
-   "title": "L'immobilier marseillais face à la facture de l'intelligence artificielle",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmJoblNzT1U3ZzZXWGNSN2o4clNKTUtHaTRieGRRbFN2V2o1MC1FLTg1WVhMY0thSzBndGdmX1F1bVpDMTNXUktkekF6Y1huLXVLN3Z1YS00dzJ0a3JZRmhqSGRybUtCb0g5QWg0dThfTE1NMHJSUHR6Umh6Vks5QWoxSEVCakM2YnRpd0NfMExodzFaVlJKanU3SVQ5TVhrZ1M5aUFkcmVwUmstbXk4N3czNEVTMUxEY0h2SlRlb3RwNDlzSWZjZ2JR?oc=5",
-   "source": "La Provence",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:48:55.000Z"
-  },
-  {
-   "id": "d420e30624b7",
-   "cat": "ia",
-   "title": "IA : le cycle que nous avions identifié entre en phase descendante",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVndSWHotNFNaQ19MNUJwVGNHOEpRaEIzSjZic1BscEwwVnBNcmx1bnlCVGlCVllkblFrV1JiLUpiamlwdTE4OEVBSVJZOWhtWFVnRVlpblhUUmJLdzJCY0RfcnZWWlBELXVDbzhCUk9LLWI0T2VYanZIVlVKNmFiazAyNVFWNDlXX2dZd3JxYnE?oc=5",
-   "source": "Libnanews",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:40:41.000Z"
-  },
-  {
-   "id": "9229b2c274f3",
-   "cat": "ia",
-   "title": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
-   "source": "BFM",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:02:51.000Z"
-  },
-  {
-   "id": "c305109d4023",
-   "cat": "ia",
-   "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T09:34:02.000Z"
-  },
-  {
-   "id": "cb8918163df7",
-   "cat": "ia",
-   "title": "Angoulême il y a 100 ans : le tramway reprend vie, les habitants s’animent… cette vidéo créée par l’IA est bluffante",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNQ1Jvb3A2SVgwRUl0Qm9OWGlvOHZES1J0bFdsSHVpa0drS1dORkpGTjRiVy1ZNFhrcTF0YXJ3anNkNHZrUFd0NFBjUklQUzhwbUpmcHJrWHFnZkdFbzN4TUJQbFV4OUR3dUdFLTl2THV3U09iNUp3WTJrakxNZXBNenBPaHRLdXBENGVXNzliOUpPcnMwYmxWcndCcGM4eUIxd19jai01dTZLREJUX3dqeXpYenBKcFN5bFBCdzFSdkR1OEVsSS00TzdTR05tQ2VpeFZ0QVpUZmxnOGJreVluaGRWVWI1cTNmY1dyb093Ujd0eDlvWmdQQWlSek5WQU0zRVB3eVBONlo3cjhJeTNYdElBanAxVUFqU3pzQk5rTXQxX2hkLTliX3U4TTA?oc=5",
-   "source": "Charente Libre",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T09:02:43.000Z"
-  },
-  {
-   "id": "e2c379bac837",
-   "cat": "ia",
-   "title": "Letter to the editor: Tax worker displacement due to AI",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkszUERPN1A3X2N2MFZtdHpJNkpfbWtVZjNWWHJYVC16YTdENjZEVGx2ZHJVZ1NUTkUtRWJFU2lwWXNqcW5tVEtDSGJ0Rzk3STJNRDdLZWxLckEzVFpMR1RxWUFEa3huWEJ5QTZlMjBubThjWnZiN0p5a2o4Z3owLXJ5RkgwdkNDNHo0ekpseU9PckRxaFRIa0Z2YWlXUnJvaS1GTERDMA?oc=5",
-   "source": "Pittsburgh Post-Gazette",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T09:00:00.000Z"
-  },
-  {
-   "id": "a779fe2fb7a9",
-   "cat": "ia",
-   "title": "Logement, intelligence artificielle et investissements : l’économie corse au cœur des échanges à Ajaccio",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcmFTXzIyVlJMcm5rdDZrUk9tQ0ViMHBXMVlBZVNtY2F5ekQ0RGF4SVNqYkVGb1dCb0h5ME5YeVVJVC1tdkNKcmszRDRsMWhXVEktdEFYREhqSEZYOHlzZnlzMENFTW1hUWxJZmFramY2UnZVcGU2RU9sZVVzT3FEWHcxRUZ5d3lmVzVmdEN0ODhzUUozX05DMHc1RnNiMmNzaG9aMkd0eWpyZVhJT29fOGVhZ0NrVkNjNU9qVk8wYV9qVHptN19GbXBydjdxSF9jd2I0VlVkNlFiaFZCWnR1LUlR?oc=5",
-   "source": "Corse Net Infos",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T08:45:00.000Z"
-  },
-  {
-   "id": "8409af9d635d",
-   "cat": "ia",
-   "title": "L'intelligence artificielle résout un célèbre problème mathématique",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb09GeWtVMkNpbTcyVXJUZ3FESGpGSENMazlIOFVoQk5PSWVfS2J3LUl3emFkdnVZREtLUFpBN3VaemwydWdMWnE3NDcybkhBTGo0blpKTEI1U0VRcVJxWmI2eWRBYzI5enAwbjZ5VHhXcnVIcG1ScHJlSm4xdjgxSlpMM29XZWNfN2FMaDJjMHFTQVRPWmlLYzgtdG01ZUpBRGVydk92NXBuYkZobEZReEY0VGNndGlNQWhWZmhBb2x1eHhfclJBMTNTVG9CU1hTbmZBUS1XZ2o?oc=5",
-   "source": "franceinfo",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T08:23:14.000Z"
-  },
-  {
-   "id": "f7cef23d7c0d",
-   "cat": "ia",
-   "title": "IDB report on digitalisation and AI",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kLWc1VWhPbVRxdG1UTm9xNm01OTZhbTBHaWY4SnMyUmU4cmlyTkRBQ3E3TFdBRDh3dnFtVVJvUkpxLUM3WXFWd3VvaEI0cVpnWlhwcFFuYUFPZVoxTWxkalM5RzZHSURnUDgtZTJn?oc=5",
-   "source": "Digital Watch Observatory",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T08:18:00.000Z"
-  },
-  {
-   "id": "e9e26034829d",
-   "cat": "ia",
-   "title": "Anne Le Hénanff, ministre déléguée chargée de l’IA et du numérique : « Le modèle américain des data centers n’a rien à voir avec le nôtre »",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTlVmLVZDNGxveU1tVEs3bmNxNWItdXNvSUotRHQ5QTlybW9ZMnY0OTNUTU1oNE1WczFBU192QjRKUllwZ1ZXck9CYmNta0Q4aVo5b21uRWdOMW5CYzZ1YXVJSTVZemoxcXM0dEFtWnVpellFUXBmM1VDXzB1RzVJRHVfMDZoU0gtUzhCMVFGUGxZMExuN2ptYUpBSkVhWUV5YWRicTZjNHpUaU9INk9IQ2FJOXZiUDF6TURHYnpOTTFSX2poTEIyMlFmNXQxYXZ3dDRjbExDYTlMaGJyU21kdk1scDNuVnh1U0NmaGpwQkNRSmJMUEp4R2Z6NDNLRDhfVzg1VlVwX1lyV2lQMmVrbmRlOGhaX2tyY0tQNV9fSm9DVHZmdEZ1Mkd2MUF5VVNaSW5PX1lDT2h4NUk?oc=5",
-   "source": "La Tribune",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T08:15:02.000Z"
-  },
-  {
-   "id": "fd46377192fe",
-   "cat": "ia",
-   "title": "Etsy-dus: Artists Leave The Online Marketplace In Droves After New Terms Allow AI Training On Their Work",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVUJCaGZfVWxRTDdBdVZIUVkyWnBkQzVzX0hua1R3R09JdV91M3VKTGRsNGw4S1BUclZqeG9TTG52S0VQcURJSUNsbXI0VTk0MG15OGNwdDZ1N2VuTjlUMXBtWnFGeUtyQkdpMWlkQmlGYl9icEJFX2IwTllaaU04d0NfaFJpQ0pDN09vYVJnMTBZUTFlMm96WA?oc=5",
-   "source": "Cartoon Brew",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T07:32:26.000Z"
-  },
-  {
-   "id": "936de4399eae",
-   "cat": "ia",
-   "title": "Congratulations to Intel AI Global Impact Festival Winners",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5",
-   "source": "Intel",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T07:17:10.000Z"
-  },
-  {
-   "id": "b8e473ef299a",
-   "cat": "ia",
-   "title": "TÉMOIGNAGE. On a demandé aux IA… de nous dire de quoi on est malade",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUQ5SkJxVzc4MXZua2h0NjhlMkJYbmVrU01BcURSVVRMWEJ6b2I5NHN2cGZ6eXY3QThzTlIyTldWbnV4VkV3S0ZERGFsUkY0NUJyNm9wdkwtcnQ4SmRac0NQd0NoZDk4ODFsbHE3V2xpdU5DRDlNVTFUdVJfVmpqTlZ2cmZRR1A3WkVLTnpibGtzZkNTNjB4VzBzY2ktVXBTQnNIcWhoeUZmZlNaMVcxNmlKOTJITTZ5V1pKNzVPd1dsTG5kY0FYTjR2cFkydy1UdzF3QUxhbDJWY3FGYkVBTm1VY095QW5lbVhZVVdpSlNuZDJxdkFCR1FB?oc=5",
-   "source": "Ouest-France",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T06:00:28.000Z"
-  },
-  {
-   "id": "766f7fdcf18d",
-   "cat": "ia",
-   "title": "Mistral Vibe, Euria, Apertus… Quelle IA générative choisir pour se libérer de ChatGPT et Gemini",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTkNOS3Q2aW9ZNHlnbnpWSlBpM2s1Q1cyTDNrZ1JDTVEtNlNFOEd2a0twOGZLM252ajNJV0hNLVVwUmZpcUR6LUpOMlFwbXJVRE1HSUI3enZwRU9ld0cyZVd3b0ZGbHI5YWI4djlnYllkUkxIS0tYU2FRVTZpUGxkLXRtZHd2bmlCeUpqVWh5SUlFX3IxTHFLV3RtdldkQjdWVVNfNm1QLURMUTh5VkpWcW14aFVSd05VaVhnS0pn?oc=5",
-   "source": "Vert Le média",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T06:00:00.000Z"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "date": "2026-11-22T13:00:00.000Z"
   },
   {
    "id": "da85b59c92c3",
@@ -283,39 +52,6 @@
    "lang": "fr",
    "image": "https://img.lemde.fr/2026/11/14/917/0/5500/2750/644/322/60/0/a84b083_ftp-1-xkavpiejahgn-2026-11-14t135955z-1515608311-rc2pnoaa2v2i-rtrmadp-3-ai-britain-protest.JPG",
    "date": "2026-11-22T05:30:06.000Z"
-  },
-  {
-   "id": "f67201db030f",
-   "cat": "ia",
-   "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5",
-   "source": "The New York Times",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T04:39:54.000Z"
-  },
-  {
-   "id": "1d861728e854",
-   "cat": "ia",
-   "title": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN092LTVsaDAwV2QtVEFTQkZyaHNzRVpCTmNPdVc1VnBnSlk3bDczczlNTXdoY2dhSWJoSkVrQ1dtZ2RZVXdDdDNORHFJbVhyN3dqcnFFVmNSeGxEVWVIVTB6a01wN01ERWlCRi1FczBsZlJ5ZVJRRDk1LTRuOFJzM2dsSlEyN05PdmZnM1NRLWY?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T01:23:00.000Z"
-  },
-  {
-   "id": "1da053e1fbbc",
-   "cat": "ia",
-   "title": "UC signs deal with OpenAI to expand AI access, lower costs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFlkXzhsMUxhZ196WUNRNUo4TFNwSDhfTHBYYS1lZ3BodlkyeUFvRF9KbXhmT3QzQ1M0ckRoYUdWNUxRdWVQNEZrbERYUC1rY2JwT3lKZ1ZwOVo2RVhNTHVPaHd3RkJfUkJDS29sSExlZ01xLU5ZT05BY0dTM0UwUmJxS25lMndUZC00NnVTcmdjNkFOSkN3?oc=5",
-   "source": "Daily Bruin",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T22:37:00.000Z"
   },
   {
    "id": "8d54d4add32f",
@@ -351,28 +87,6 @@
    "date": "2026-11-21T20:03:37.000Z"
   },
   {
-   "id": "893ab88fa44f",
-   "cat": "ia",
-   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5",
-   "source": "The Guardian",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T19:15:00.000Z"
-  },
-  {
-   "id": "f087035fc1a5",
-   "cat": "ia",
-   "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
-   "source": "The New York Times",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T19:11:51.000Z"
-  },
-  {
    "id": "01945f6a907c",
    "cat": "ia",
    "title": "Here are the top AI agents that can live in your text messages",
@@ -393,17 +107,6 @@
    "lang": "en",
    "image": "",
    "date": "2026-11-21T16:00:00.000Z"
-  },
-  {
-   "id": "9fb973384555",
-   "cat": "ia",
-   "title": "AI may not work like the human brain after all, scientists discover",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yaS1OaGZZX0NqZndfaW1HQ01LQmZxU0lIaUhmTVdEdFZPSVpJUlVudjBFVFR2eFdmY3F6U2FTbThfbU9lOE5kUmowYUJuOUl5d1c3TEM3dWxsUG9WQUFVZVB6dkFSTDk4eWFOTHhPWQ?oc=5",
-   "source": "Science Daily",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T15:25:56.000Z"
   },
   {
    "id": "a9f34b76fcc6",
@@ -681,6 +384,182 @@
    "date": "2026-11-20T00:56:01.000Z"
   },
   {
+   "id": "f1dd0bea0b97",
+   "cat": "ia",
+   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+   "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-20T00:43:50.000Z"
+  },
+  {
+   "id": "d15c45643214",
+   "cat": "ia",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "link": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "id": "f4784c304003",
+   "cat": "ia",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+   "link": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "id": "5bd0a548ad8f",
+   "cat": "ia",
+   "title": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+   "summary": "L’introduction en Bourse spectaculaire du leader de l’intelligence artificielle n’a pas empêché Wall Street de finir en forte baisse jeudi, sur fond de mouvement anti-IA et d’interrogations sur le modèle économique de ces sociétés.",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/11/19/468/0/5613/2806/644/322/60/0/e4b8e49_ftp-1-2aebekbaoofu-2026-11-19t224403z-121876089-rc21roaj4zlb-rtrmadp-3-anthropic-ipo-venture-capital.JPG",
+   "date": "2026-11-19T23:30:54.000Z"
+  },
+  {
+   "id": "a22c687c439c",
+   "cat": "ia",
+   "title": "Apple is hiring engineers to build its own AI agent",
+   "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
+   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+   "source": "The Verge",
+   "lang": "en",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "date": "2026-11-19T22:31:41.000Z"
+  },
+  {
+   "id": "74e2df778984",
+   "cat": "ia",
+   "title": "A brief history of Nvidia’s recent stock fluctuations",
+   "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+   "source": "The Verge",
+   "lang": "en",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "date": "2026-11-19T21:59:35.000Z"
+  },
+  {
+   "id": "6f0f2d869f0f",
+   "cat": "ia",
+   "title": "Meta’s new Muse Charm device may cost $300",
+   "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+   "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-19T21:58:06.000Z"
+  },
+  {
+   "id": "f2dddf2ea7d8",
+   "cat": "ia",
+   "title": "These tech outages are giving Y2K, AI agent style",
+   "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-19T21:42:31.000Z"
+  },
+  {
+   "id": "423b8c753c11",
+   "cat": "ia",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-19T20:18:49.000Z"
+  },
+  {
+   "id": "2ad2190c7ade",
+   "cat": "ia",
+   "title": "Anthropic’s IPO could deliver $156B to charity",
+   "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "image": "",
+   "date": "2026-11-19T19:10:45.000Z"
+  },
+  {
+   "id": "3b5dc2d1e9d9",
+   "cat": "ia",
+   "title": "Anne Le Hénanff, ministre déléguée au numérique au « Monde » : en matière de cybersécurité, « il y a urgence pour la résilience de la nation »",
+   "summary": "Après l’adoption à l’Assemblée d’une loi sur la cybersécurité très attendue, la ministre du numérique prévient que les 20 000 entreprises et entités publiques concernées par de nouvelles obligations en matière de sécurité auront deux ans pour les mettre en œuvre.",
+   "link": "https://www.lemonde.fr/pixels/article/2026/11/19/anne-le-henanff-en-matiere-de-cybersecurite-il-y-a-urgence-pour-la-resilience-de-la-nation_6813364_4408996.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/11/13/316/0/5051/2525/644/322/60/0/878c6fe_upload-1-y3msv3g74rca-000-a9rv22l.jpg",
+   "date": "2026-11-19T18:00:10.000Z"
+  },
+  {
+   "id": "b18ca0530fdd",
+   "cat": "ia",
+   "title": "Microsoft lance une initiative pour rendre les agents d'IA vérifiables",
+   "summary": "Microsoft a annoncé à Ignite une initiative de transparence réunissant plus de 40 organisations pour permettre une vérification indépendante des agents d'IA. L'éditeur a aussi mis en préversion un score de risque et des contrôles de confinement, tout en reconnaissant qu'ils ne révèlent pas le comportement du modèle sous-jacent.",
+   "link": "https://www.actuia.com/actualite/microsoft-lance-une-initiative-pour-rendre-les-agents-dia-verifiables/",
+   "source": "ActuIA",
+   "lang": "fr",
+   "image": "https://www.actuia.com/storage/uploads/generated/11600-gkslkdxs-1200.jpg",
+   "date": "2026-11-19T18:00:00.000Z"
+  },
+  {
+   "id": "925de5bb9d66",
+   "cat": "ia",
+   "title": "Le standard ANS fait du nom de domaine l'identité des agents IA",
+   "summary": "Le standard Agent Name Service (ANS), passé sous la gouvernance de la Linux Foundation en novembre 2026, rattache l'identité d'un agent IA à un nom de domaine, des certificats et un journal public. Ses sept spécifications restent à l'état de brouillons, et le comité est dominé par GoDaddy, qui détient trois des cinq sièges.",
+   "link": "https://www.actuia.com/actualite/le-standard-ans-fait-du-nom-de-domaine-lidentite-des-agents-ia/",
+   "source": "ActuIA",
+   "lang": "fr",
+   "image": "https://www.actuia.com/storage/uploads/generated/11597-bav25t5k-1200.jpg",
+   "date": "2026-11-19T16:00:00.000Z"
+  },
+  {
+   "id": "7c92d479beaf",
+   "cat": "finance",
+   "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+   "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "lang": "en",
+   "image": "https://images.mktw.net/im-74462346",
+   "date": "2026-11-22T15:01:00.000Z"
+  },
+  {
+   "id": "d6d28b06e4a5",
+   "cat": "finance",
+   "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+   "summary": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
+   "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "lang": "en",
+   "image": "https://images.mktw.net/im-25122458",
+   "date": "2026-11-22T14:00:00.000Z"
+  },
+  {
+   "id": "f443b6dc67ee",
+   "cat": "finance",
+   "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+   "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-22T13:50:21.000Z"
+  },
+  {
    "id": "5846632e2117",
    "cat": "finance",
    "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
@@ -690,28 +569,6 @@
    "lang": "en",
    "image": "https://images.mktw.net/im-35352334",
    "date": "2026-11-22T12:30:00.000Z"
-  },
-  {
-   "id": "78357d513a5b",
-   "cat": "finance",
-   "title": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMWFvelczdXNEbGlwSjBBYWNmSmRmUmhwZGMyc0o2dTA2U0Z4bmpwWExtWWpEbHBhVEVlRkZwNnFZcFNVNlUyMzZLUmstV1l5NlJZOXA0LVY1d1NSSUtVVHNmY2FVVDlEOXNoNzJONW9TX2I2Wkg5cUNheTA0emoxS1RwNy1SV2ZkaG1SLWRNRV9JWHJuSUxGUktiWUdyV0JwMGpPWGVKMEdzVlNvRVJaNG1jSVFmbm9pMEhTTEtFNVFrcmpsVFE?oc=5",
-   "source": "24/7 Wall St.",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T12:30:00.000Z"
-  },
-  {
-   "id": "99f5742117f0",
-   "cat": "finance",
-   "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOEloal8zR3MyUU1YX3VxeWRPTHNUR3B2dmVhZmFRcDAxMXA2YjBDRlcwQkI4djY1MzB4NnBvbUpNRjhiNm83MC02MTlwOFFQRVJYUzNmR0JBQU1CQVlFbXo5VmFxcXNxRmROQzVvbnA2YzgyYWVzZkkyeG81Z1kzS2xvTW84ZUlQU0M0MDNFX0t1MC1jSVpIT0ZuU1ltbFI20gGmAUFVX3lxTFBaNV92d1hjUGxtd0pQNGdJQUhaemFybTV6dXp2cEpGQ3g0bnJfTmRGZUtoU1BYWmNuNXp2OFlkRFpnVi1OSXg1YjRCMndoN2c0TmcxdjNwN3cyRno1S25YSm9aSkRZT1NLTEw1dE9GUmlDUDdhTThiQVVYMHVnZzBubXhyLVQtTEpZZ3VQaXVHVUVrWUhhdVhkZTJ4RVlsT2J0UF8tWHc?oc=5",
-   "source": "CNBC",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T12:13:56.000Z"
   },
   {
    "id": "2aaec3b9a9e8",
@@ -734,28 +591,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
    "date": "2026-11-22T07:12:41.000Z"
-  },
-  {
-   "id": "ab59bcbfffdc",
-   "cat": "finance",
-   "title": "Marché : Elle fait trembler l'IA Bourse… Qui est Gina Hinojosa, la démocrate latino-américaine qui va mettre fin à plus de 30 ans de règne des républicains au Texas?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPc3NIYS1OLXBkSGd5SlZvRkl6MGxIRDc3UXl6eFp3UW9WYnZvNGliMmpCSFEyWmxNOGVYOGdpZDI0cXNVeXU5YzFYRmxjR3NpVEZ4TFlpSzNkQlFjSEtjUjNXa2YtNXNackppSkJZeGhxUDd5TllCd2pLdmoyTmZtNEVTN0k1SUs5MVpteFRtNHRjQWJ2UDA3bFJIekRxcnlvT0JUZE9vNnNpbzJ4MmlPaVR0eW12UEplS2hfQzZUMVd1YnE3ZUJac2VkREhyRks0THJEQWFuemNUUHJNN3l2NHlISXNwLW9VSHV0TXg2YlJqZF83bmlYeEpsSEp1azFBOGZRVmdCX2xrY0Y2UkZMX2JVUFpTUGJBRjVyaTYydmhmc3hlS3hTWXdGc3VCY3RIcXVKb3dMMW9YX3ZIUU1oR3NVMGFyUQ?oc=5",
-   "source": "BFM Bourse",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T06:00:00.000Z"
-  },
-  {
-   "id": "2544609c5935",
-   "cat": "finance",
-   "title": "BofA's Michael Hartnett: The Surest Way to Sideline the Fed — Stocks Must Give Up All of 2026's Gains",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHhvY05RNmhjdVZZRUJtRzJUNTAyZWRnTGxTUUVzalNHcmRSSXRwWlpQUzE2UVItVzV4b1NZbWRiWXdxRHRsWTZqelRMWnpVQzF6T1B1aHVQM1d0X2YwbS10R2VHWEJZSWVKVkd6WU90SXcwdDNwZms2X25hd2ZxZXhqQQ?oc=5",
-   "source": "The Dark Side Of The Boom",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-22T03:01:25.000Z"
   },
   {
    "id": "0371485c3a10",
@@ -789,17 +624,6 @@
    "lang": "en",
    "image": "https://images.mktw.net/im-05393650",
    "date": "2026-11-22T00:03:00.000Z"
-  },
-  {
-   "id": "148bb1f6a297",
-   "cat": "finance",
-   "title": "Jim Cramer Says the Fed “Doesn’t Need to Do More Than 25”",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnRVdWJGajFMTzBtc0Vwd21lempYaWpSczkzeWFhUVVSWUdqMmR2eGgwRUhZeWhnRlhQLUJINm1ESkVJVFhWdjRZLV9HaFJoNW4zaUtUZHZXdGVfcHdwN3p6V0VUNlBtdHJNb1Zmb1gwZE9lT1E0NXl5cjMxQ0g2clUxcnZobHh6UmwwVU5kX1ZoOVRYQlpCTUhBVW9WLWc?oc=5",
-   "source": "24/7 Wall St.",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T23:07:00.000Z"
   },
   {
    "id": "e6c49131f66b",
@@ -846,17 +670,6 @@
    "date": "2026-11-21T19:45:00.000Z"
   },
   {
-   "id": "139f96b6564e",
-   "cat": "finance",
-   "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1hJb3JkSTFDbFhjbGM1ZjkzMkY5UVljOEVmZmZkaWkzaXAxYnhtekVwRzdwV0tLd0EtczhScE5FSTBtNHFUWlMxaTNBTmdZMDBXZ0FKS1BudUlRQ2p1d1RWS0lDSlctVmJEY0hsdHhsQXpDVi1SbnF4R0JGVS10SXJVakJBWHRsRE04UlJIM1FGdUQzLW5sM3FxRklXMWZk?oc=5",
-   "source": "24/7 Wall St.",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T19:22:00.000Z"
-  },
-  {
    "id": "ebe348207bfa",
    "cat": "finance",
    "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
@@ -866,127 +679,6 @@
    "lang": "en",
    "image": "https://images.mktw.net/im-64310568",
    "date": "2026-11-21T18:20:00.000Z"
-  },
-  {
-   "id": "c3f832d5a946",
-   "cat": "finance",
-   "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
-   "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "lang": "en",
-   "image": "https://images.mktw.net/im-39302735",
-   "date": "2026-11-21T18:19:00.000Z"
-  },
-  {
-   "id": "7aafab3d5264",
-   "cat": "finance",
-   "title": "5 Dividend Stocks Yielding Over 4% Retirees Should Buy Before December",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnFmTG9kbERzYnlORjZiNVBSX1dIdG92MzBjcWJRV1RNbjdxNHpnMURvaHpRVkFFd0VaWFNENUV6bzF1RHpZWXZUMXhhSDJLd1FTVno3Y0FhOFMyTWpkaGdBa3BtZjFjUXE3QlcxQk5RWThXUkE0bUFFVlIyRkxaZ3RIREhmUDJ4SnNpYjR2a1REX0lvSE01NjNLdlI5V1ZsOWlScUZhVUk1NjlJRHJXRXpDbw?oc=5",
-   "source": "24/7 Wall St.",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T17:00:00.000Z"
-  },
-  {
-   "id": "4539300da226",
-   "cat": "finance",
-   "title": "3 High-Yield Dividend Stocks to Buy Now and 2 to Avoid Despite the Yield",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMF9laE1zR3BkdUxuTHd3YmtFUFRWSGFiZnlzaEhnd1UzcWxiZE1uWEV6N05yc0d1dE56T1Q2WjdkV1k5Y2JwT3NJRENEemZ0QjVLWTFHMV8taUVxdGVfRWJEdEo2ejh4LTJtRHBPdFJrVlQtNTMyVjQzemlOazMyNUpxZl94ZWtyZVBIVS1EU2UxV190UXhIZA?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T16:51:02.000Z"
-  },
-  {
-   "id": "89ded08b1778",
-   "cat": "finance",
-   "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-   "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-   "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "lang": "en",
-   "image": "https://images.mktw.net/im-49247042",
-   "date": "2026-11-21T16:50:00.000Z"
-  },
-  {
-   "id": "a8f9facd4aba",
-   "cat": "finance",
-   "title": "Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGcwWU5zUDZCMUNPeUcxdGVVWW9IUnE4T3BIbl80OVJMUXVRTXFZcEphQVE1QmRlMTdwZENsSVJwY05mM0doQ1YzOVB0ZDgwRXdpS0M0ZHliX2kwbnhOTXRfQ2RGSGg4VzlraHdTVXh3ai0wLXdzc3VZdTh4SVY4UVFRczFSLUNRX3U3d1NfSjByRGdmTUNN?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T15:28:29.000Z"
-  },
-  {
-   "id": "e952158cd43b",
-   "cat": "finance",
-   "title": "This Stock Market Selloff Could Block the Fed’s Rate Hikes",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1U4dnBGMkhzWi1Rb29JRUtmWWgxYktRY2FsWE1HUzJPZUgzaGlUT0w1YnJQOFlOZjQtZ2FKdTVHTl9oUzJObXJ6NERDbG1mVG10R1JWR1YzdFVOaEt4SXVUU3RFVlcydHFrNVRZVjBKYkFaNWlpWXZHa2FqWnh0Zzlmcy1MRjZGZEtzX2IycC1ZSnJVYVZqYlZYak9xQlNCcW1j?oc=5",
-   "source": "24/7 Wall St.",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T15:17:00.000Z"
-  },
-  {
-   "id": "a860fe03209b",
-   "cat": "finance",
-   "title": "Wall Street siffle-t-elle la fin de l'euphorie IA ?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUxSbW9Ra1dzTnB0UVpBUkREc3BIcTl1TnYyejUwdW52MkZfN1NEUmxvZmxha3FZQTVYdlpfZzQ2a0tuekV4cjhUajFqdFVlVXAyYkY4RWc1eXJFdkZpaGROeDhjZEhidVo3RUJXM2dzT1FEdjRZUmxJV3VEdlJ5QTgxT1NCRUN2NDFZRDUtQUhrb0lnVE44QnlQb3dpcFBGemstRmlzZDU0YjhuSkZRdXVaUkZJaGNFY1Q1MmxjdzRoTFJ0MzIyeWFNQdIBywFBVV95cUxOZUxSbW9Ra1dzTnB0UVpBUkREc3BIcTl1TnYyejUwdW52MkZfN1NEUmxvZmxha3FZQTVYdlpfZzQ2a0tuekV4cjhUajFqdFVlVXAyYkY4RWc1eXJFdkZpaGROeDhjZEhidVo3RUJXM2dzT1FEdjRZUmxJV3VEdlJ5QTgxT1NCRUN2NDFZRDUtQUhrb0lnVE44QnlQb3dpcFBGemstRmlzZDU0YjhuSkZRdXVaUkZJaGNFY1Q1MmxjdzRoTFJ0MzIyeWFNQQ?oc=5",
-   "source": "Boursorama",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T11:15:18.000Z"
-  },
-  {
-   "id": "b01fba564467",
-   "cat": "finance",
-   "title": "Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lUklnb1Y3YlVyMzFtTEdrRHdScnhvTDNWdnA0MmxRWFI5ZHEyOGJQZ3J3NTF0ZlMtZXhUTEhqQ1JkZVpPTWlUTkpYM1QteWNNcGF6SU9VMDJMTzhGR2FMbXpuR1N0VG1ELU1qa1N5RVdQcTNYeldneQ?oc=5",
-   "source": "CoinMarketCap",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T11:08:15.000Z"
-  },
-  {
-   "id": "5f894e541e0c",
-   "cat": "finance",
-   "title": "Jet Energy : +43% et un tiers des échanges pour sa première semaine en Bourse",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTExeklKanhIR2hYOTBBUU5QRjlGRkNHWGlfOE5MUjNkZ3o3MVpYX2FTc09ab29rMGpiRnE5TW9BaVc5VkJhOXQ0WDdhWGVLYzVMTnN5ZVVjSXJtQlRfdk0tMkgtYzR4Umo5ODc0SFN2R1I5Uy1xNWtsR0NXZ1l4Y0pSTnBhZXAxcG5SeWRESTRaTUZUQXo4Zmx1Q1dMb2U3Q3RwbmpFRUo1Q0hMV1NRR2kxMlNxU2tDNUVwaXJn?oc=5",
-   "source": "Boursenews",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T11:01:58.000Z"
-  },
-  {
-   "id": "981fcc61fc02",
-   "cat": "finance",
-   "title": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
-   "source": "Beinsure",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T09:58:33.000Z"
-  },
-  {
-   "id": "f6ee0cdf7fc2",
-   "cat": "finance",
-   "title": "L'Espagnol Pablo Hernandez de Cos s'impose dans la course à la présidence de la BCE",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSTFjdEJyZkpXQXNmV3d1Tmp2TWh5MjhOeVVMYTcyUnFTdGd3d1JpX0xUMzVmZUdjYkJuSzNmTUFiS3UwN2ZRQWpteHVXa2hYSlhfdXJ1SlBFcTgtSk5GTzgxRkU1UXdjalJaMC1pWF9HdVlPQTJNenRTRGQtb0tiemM1UjZXWDBwSVNYbHNvYUZaWnJ0Z0lUa1NNUzZ6eWpiZkpfQ3VaZnVrTVJhcTVlbEtzc01GNDM3R3RVeXZMUlFCYWVNWFMyQlZzZFRsUVpxd3NKT1B0QTI1RzdpVkZyTHp3?oc=5",
-   "source": "Les Echos",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T08:25:09.000Z"
   },
   {
    "id": "e0907b24b566",
@@ -1000,28 +692,6 @@
    "date": "2026-11-21T06:00:02.000Z"
   },
   {
-   "id": "18981e2c262b",
-   "cat": "finance",
-   "title": "Bourse : après l'effondrement, le pire est ailleurs",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3NwN2lRSjZjaW1zZFAtWUV3TmFBSGlWMnkzUllrZGdiNDlFVExHT2Z5LWdfQ1BaN1kycUNHWVpJcVQ1eDRWRlhLY3ZkVTFFVFNDODFORU1PZ1ByQV9oZmctRHctYTFqbUR5RjR2OEREYnVOMjR4LUNOTEJSbngyQzZDcDRIeVFxNDlRbXpFX2llNHYzM1ZRUjR2Zw?oc=5",
-   "source": "Le Revenu",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T05:39:00.000Z"
-  },
-  {
-   "id": "b66f493cc3ad",
-   "cat": "finance",
-   "title": "Les marchés financiers “plongent” tandis que les inquiétudes liées à l’IA s’intensifient",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbDU1Nm9lb3NNSzhjRGdGZ1RrWl9qLUpXb242Nm84TjNDck1VSGc5S3ZNTWw1Y2UwaFh6MlZRR01oRTZlcXRFQWtIaHFjSXdta1hZN3k2SEp3LXlkZ0RSQzNDYlJ3TWxnQnQ3ejZXN3MtbFFyRnJuQ0RUcmdSS1BlQjNXZ0hvb3dnNkFucHVHU1V6cU9UMTRVZXJrWUR6bUJJcU5ONTl1bjlLbFVyNjl4clRDczdFWE5WR0c1eXR4NlN0aFE2VlJHVS1mZkZoYWZRMmRRWmNiZFpQNmxOMXkw?oc=5",
-   "source": "Courrier international",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T03:48:50.000Z"
-  },
-  {
    "id": "efb180883366",
    "cat": "finance",
    "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -1031,17 +701,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
    "date": "2026-11-21T00:06:11.000Z"
-  },
-  {
-   "id": "40aeafd267b4",
-   "cat": "finance",
-   "title": "Stock market selloff pushes mortgage rates down",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkx0Ui1ETVZ4bWFDSFFjckd6Y1l3LWxkWHdGNUZmVFdXMUVVN0pQc0loVlBXTnlMUUtJY2xWalhvenhwckQySldVV2xTRlhQRDJqckRRdGlOOWFXTXVIa0RBNUl0bWxFOEt5MmItRHY1MGZEMTg2dWJ5QVJlQTVJR2YtTm1fcmZEUXk4Z0pTODZQZGs?oc=5",
-   "source": "RealEstateNews.com",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-21T00:05:42.000Z"
   },
   {
    "id": "819d3babef6f",
@@ -1064,28 +723,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
    "date": "2026-11-20T22:42:47.000Z"
-  },
-  {
-   "id": "b69b332adcad",
-   "cat": "finance",
-   "title": "Wall Street stays bearish after gold’s slide to $3,500, Main Street pessimism deepens ahead of holiday week",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzNZSEhWdkUzUk5sejZ4cDNvV3YyZ1I5d1RSUFdrLXNILVZIS1RmZU1ROTE3RG5fZllqc2lZNzh0UkpyYmk1Uk5GUjlxOGVxdW81WTdsRFZzMlpQdkJNUjhLM1EwZlg0Y2ZXb0VJLTB6U0FtMjlxVUF2UkFGNEVYNWZ1THNBM1cxTkxCd2hUY3Y3ckRrUE9zZFpkbHphdkN0aDhWOE5LT1RwMTFYRVVLeE05Ti1remM?oc=5",
-   "source": "Kitco",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-20T22:26:49.000Z"
-  },
-  {
-   "id": "f8f6e311d29e",
-   "cat": "finance",
-   "title": "Wall Street Nears Breaking Point as Fear Grips Global Markets",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzFZMUV0TnJwY0RVNXBBYzRZQVJZQ0lUYnhrMWhsTnZwU0xpVUlLejFRbTRvZUxOM3JLbmZGRTBNS0kyZ2NJMEtuUHZVRDE0YlFhM0NHaHF1eHZ0cnJsTlE0VHNBWVdodC01ZEtLZ0dUR3kycTBxSC1QdVNzUVRTaG9KcUtSQXZsWTZjdm5XdzR5UHJPZkgtV2xSeHJZMW15dnpDNG4xci16UmhXOXR4dTFR?oc=5",
-   "source": "Bloomberg.com",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-20T21:52:00.000Z"
   },
   {
    "id": "997da43c4e8d",
@@ -1121,39 +758,6 @@
    "date": "2026-11-20T19:59:03.000Z"
   },
   {
-   "id": "355ed6a7ce05",
-   "cat": "finance",
-   "title": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0FYZkE5NFhXWVlaMFVSR0pEMTljVG04Qy1LaDNQeUZwYlAwRUp4LXAwVGVkeXVPVUZZYW9pbVFTV2lSS0d5c21DLWVzT1dPQjFSWHZvQWFzRkVLNS1sQTYtQXNieFUtZnRCX0c5bFB3WFRVdGY2ZjFHTy1JNG00NDhLX3pjbEF5X0pkX1BwNjI5akJia19V?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-20T19:43:00.000Z"
-  },
-  {
-   "id": "149229c5f1be",
-   "cat": "finance",
-   "title": "« La rigueur, c'est moi ! » : Lula à l'épreuve de la défiance des marchés",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWl9wd3ZHWkdOaDdMMUh2eVNMekJoUXFqSmdZOWRGVGpEZTNZNi05QTZuN2hDSlpFZy1oejVDQkhzOXRRcmxUVGYydF9VQUZ0a1RISk9KLUZvSFhFR1gtSU9lZmhQdjd4eDJkQm5GVVc3VHktTmlNSm95TEotVEljdGdqV2J6eU4tZlFBWjFPaHdmX3NrbElxX3BTUDNxSTJ1RjgzajN3V2swWURBS1lCdlhxSlZ5Vk45SHVxVG9PRnAtYjBoMHVaNg?oc=5",
-   "source": "Les Echos",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T18:11:16.000Z"
-  },
-  {
-   "id": "693405bdc9f4",
-   "cat": "finance",
-   "title": "Anthropic entre au Nasdaq : le prix de 83 dollars et ce que cela change pour Claude",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGUmNnbmtDbGY1YVB4MnMtekJ2eWV6SG5waHU1Y3dCR3lIcXUtazEzQ1ROQ2wtdkNIaEJrMkdPS3RLVXB0dk1WdVY4VUV3RWxmTXRnSTFVVkFpWTY0WmEyU2lhWm01bkxpalJZeVZWMzU3MUtXeWU3Z2xn?oc=5",
-   "source": "WeAreMobians",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T18:10:12.000Z"
-  },
-  {
    "id": "767c2779862d",
    "cat": "finance",
    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -1163,17 +767,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-20T17:49:48.000Z"
-  },
-  {
-   "id": "a86f5e491b4b",
-   "cat": "finance",
-   "title": "La pire semaine depuis le Covid : la tech s'effondre à Wall Street et entraîne le reste des marchés mondiaux",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTlMtekhPQ2tvLUhYNVdqbF9Rdmk5Z2E5b2R0NndqcUFIYVp0M3UwQnBkNmtwd1UyV3didEJuTE9Yd2czVlVJX2FFdnRQWjhoQk1UZlpEY0FMdWNsQmRNYmNlS285d08zT3BvaGl0R0h2dVA0bHFtVnZsaDZKSXd6ZVFCZUlxa05PM2JFcHVXWmh6bk1WbFBJSENrdW04eXhaaXZMT3hKQ0R5cFZrYlZHWWRlLXZoRjFjZjBaa1RxTi1pZUl4WEdYdVdadUJtLWg4dkhETG80SXFtdjdKQXZLcGY4QkpMWGNX?oc=5",
-   "source": "Les Echos",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T16:58:19.000Z"
   },
   {
    "id": "4f6023ff12d7",
@@ -1187,17 +780,6 @@
    "date": "2026-11-20T16:41:52.000Z"
   },
   {
-   "id": "c4a335f17da5",
-   "cat": "finance",
-   "title": "Bourse de Casablanca : Le Masi boucle la semaine en baisse",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVU1xcHJnbGlGWUNBX0VQZXN6RUpJS3E4XzJ0NVRrYjR0bVpQUlBlN3lMLS1iMEN6TkZtZGx5SXJiZHk4cG1JQVhYWEJKWGQ2V1JkQmNpcmFOYUMzeWRISzAtZG9Vakl5a19hQTVPaFVhY3ZWejBXNWdWbGM2VGZxVGdZbTVwcGJUV001Z1lTNA?oc=5",
-   "source": "Boursenews",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T16:38:58.000Z"
-  },
-  {
    "id": "8e3d04f61529",
    "cat": "finance",
    "title": "Airbnb's divisive new house rules come into force",
@@ -1207,28 +789,6 @@
    "lang": "en",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-20T15:48:35.000Z"
-  },
-  {
-   "id": "56beb34f8504",
-   "cat": "finance",
-   "title": "5 High-Yield Dividend Stocks Retirees Can Buy for Under $50 a Share",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0dsWlB5YWRCRWFhbUVTT1JuMGRIYXFKdl9qc3NDYnM4bExTcjJaWERhRTZrOURzaG1JNEJzYXZGc1hlV2RqYUpDTjFqN3NtcmNhM0JnR2xoSTB2VWNuQjhFREdfOWlHNks5cXBiRXcweUJEdkRmbTV4TkItRVB6bHRsVG56Yi11eEtmVTRxOUdlVHVSNGdsTQ?oc=5",
-   "source": "Yahoo Finance",
-   "lang": "en",
-   "image": "",
-   "date": "2026-11-20T15:45:50.000Z"
-  },
-  {
-   "id": "7030b169281b",
-   "cat": "finance",
-   "title": "BCE : les lignes de swap en euros plus accessibles que jamais !",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm94bjZ4amNWSDBPRV9ZTk5GSGFERXFrU2MwMG9DSnZWVTlFOHF1NUdQRUJ4a3RuX212X3lyVko5cXZvM0tVWGMteEZhUTlJTnJCdzhkQ0lRMURxdjFEbkcyTXJOSUtjemRoUkRQS21JM2U5ajJQQ01GVE1LQUtaQnNoT2N4TlFUSVZWUk13YXY3bG4zQ0lwRDlCOVVBd0hZWk02QThsRUhVcFFPQ0JsZzhRWFU2d3FJU2hXQVpsRjA?oc=5",
-   "source": "Le Revenu",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T14:58:00.000Z"
   },
   {
    "id": "fb329336ea33",
@@ -1242,17 +802,6 @@
    "date": "2026-11-20T14:15:29.000Z"
   },
   {
-   "id": "771b6c80c820",
-   "cat": "finance",
-   "title": "BCE : le président de la Bundesbank pousse pour une hausse des taux en décembre",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTjJRY0YzT1RHcGtLNXdTOVlhTHJObTFKekZvVW9XQVZLaC1GNjE2d2R6U3Rrb2hQVW92aTNMLVBkNi1VeXd3bU4wUktkSWM3Vy1KVWRWaDE0RjYtNDR2X1NjWUU0cjFvdHFGV1hJQ3ZFVjRnLUdPc0FBRW1tTVMwTWd1R3Y0S0ZsamFSMFdEQXpyYTZILXBDMjB1QWNPX054Q0o3Wm53N0RsZ3FFWFdsWFFoS0dYTGlyMy1SN1RTcUtBNEhkRE5hZHlpdzd0S1MwZkNlNjUwVjk?oc=5",
-   "source": "Le Revenu",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T14:14:00.000Z"
-  },
-  {
    "id": "a2435921bf25",
    "cat": "finance",
    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
@@ -1262,17 +811,6 @@
    "lang": "en",
    "image": "",
    "date": "2026-11-20T13:29:50.000Z"
-  },
-  {
-   "id": "e8ed159a15f9",
-   "cat": "finance",
-   "title": "Anthropic bondit de 17 % pour sa première séance en Bourse",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHQ4blRWem9xMDJWZ2xMaUk0ZldfMEtOWmd4amZqaEp2am8xNnZETU1NZTU4cmdEbVNyZWxLXzdfMmtBa0VSWFdjcmtwTHViUzg3RWxpYjdtcXJQQnNtWDMyb3RXaDlZTGhSc04yV0dUVC1kSFptZzk1OHBjVzlOTnd0eVFLRUNyajB1NWdEdW5nUXVWdDZrN2RNWjUxQzdCdlRaNjNqeWlTTjA?oc=5",
-   "source": "Finance et Investissement",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-20T13:05:58.000Z"
   },
   {
    "id": "41a333d608be",
@@ -1319,15 +857,81 @@
    "date": "2026-11-20T00:08:37.000Z"
   },
   {
-   "id": "91681bf0848f",
-   "cat": "finance",
-   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-   "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
+   "id": "438acf5edc56",
+   "cat": "monde",
+   "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+   "summary": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
+   "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+   "source": "New York Times",
    "lang": "en",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-   "date": "2026-11-20T00:02:07.000Z"
+   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
+   "date": "2026-11-22T15:04:54.000Z"
+  },
+  {
+   "id": "8e54f3f566d0",
+   "cat": "monde",
+   "title": "« Le zouglou est une des meilleures publicités possibles pour les hommes politiques en Côte d’Ivoire »",
+   "summary": "L’anthropologue Léo Montaz retrace le parcours politique de ce mouvement musical emblématique du pays. Ce genre contestataire au début des années 1990 s’est mué en musique promotionnelle, notamment pour les meetings de partis.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/22/le-zouglou-est-une-des-meilleures-publicites-possibles-pour-les-hommes-politiques-en-cote-d-ivoire_6814221_3210.html",
+   "source": "Le Monde International",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/11/21/528/0/6048/3024/644/322/60/0/be921b6_upload-1-tw386qsbxedh-000-9ku9l7.jpg",
+   "date": "2026-11-22T15:00:07.000Z"
+  },
+  {
+   "id": "3dfa14d555d1",
+   "cat": "monde",
+   "title": "St. Patrick’s Day Parade Canceled as Florida Figures Out D.E.I. Law",
+   "summary": "Cities and counties are pulling funding from groups and events they’ve long supported before a new law bars them from promoting diversity, equity and inclusion activities.",
+   "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
+   "source": "New York Times",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/22/us/22nat-florida-dei-02/22nat-florida-dei-02-mediumSquareAt3X.jpg",
+   "date": "2026-11-22T14:52:52.000Z"
+  },
+  {
+   "id": "0e0033667e08",
+   "cat": "monde",
+   "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+   "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
+   "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+   "source": "NYT Politics",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
+   "date": "2026-11-22T14:34:02.000Z"
+  },
+  {
+   "id": "3af773db5cb2",
+   "cat": "monde",
+   "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
+   "summary": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
+   "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+   "source": "New York Times",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
+   "date": "2026-11-22T14:02:55.000Z"
+  },
+  {
+   "id": "13d0956c05dc",
+   "cat": "monde",
+   "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+   "summary": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+   "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+   "source": "New York Times",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+   "date": "2026-11-22T14:00:16.000Z"
+  },
+  {
+   "id": "c9d24bba27c7",
+   "cat": "monde",
+   "title": "L’Italie secouée par le suicide de l’ancien chef de la police Gianni De Gennaro",
+   "summary": "La mort de Gianni De Gennaro survient alors qu’il était mis en examen pour avoir entravé l’enquête sur l’assassinat, en 1992, du juge antimafia Paolo Borsellino. Aux côtés du magistrat Giovanni Falcone, tué la même année, il avait joué un rôle déterminant pour retourner certains parrains.",
+   "link": "https://www.lemonde.fr/international/article/2026/11/22/l-italie-secouee-par-le-suicide-de-l-ancien-chef-de-la-police_6814214_3210.html",
+   "source": "Le Monde International",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2026/11/22/500/0/6000/3000/644/322/60/0/737a99f_upload-1-vc4xfi5zcphu-shutterstock41430098-000005.jpg",
+   "date": "2026-11-22T13:10:18.000Z"
   },
   {
    "id": "3e4850050840",
@@ -1341,61 +945,6 @@
    "date": "2026-11-22T12:30:24.000Z"
   },
   {
-   "id": "3dfa14d555d1",
-   "cat": "monde",
-   "title": "What’s Legal Under Florida’s New Anti-D.E.I. Law? It’s Anyone’s Guess.",
-   "summary": "Cities and counties are pulling funding from groups and events they’ve long supported before a new law bars them from promoting diversity, equity and inclusion activities.",
-   "link": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html",
-   "source": "New York Times",
-   "lang": "en",
-   "image": "https://static01.nyt.com/images/2026/11/22/us/22nat-florida-dei-02/22nat-florida-dei-02-mediumSquareAt3X.jpg",
-   "date": "2026-11-22T12:24:11.000Z"
-  },
-  {
-   "id": "0be5ca65e8d4",
-   "cat": "monde",
-   "title": "États-Unis : l’ICE est « hors de contrôle », alerte un gouverneur américain démocrate",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQUZaRVRtcWdOazE1ZHRuQzV6XzV4SmwyMjVRSjRCeTJRSDh0Ry1SaTVlVkNwSVB5ay1jVUxNVzlxLVdIQXZlM1ZBa0xQbTA5b2Q2SEhDa2Z4cTZxS2NUd3FUNHdXWnRHaHdISGRSZnE1MUdsbGV5cUpfcVl5UlZ4NjZVcTQ3bTZ6eFBNaW4wenEzV3hxQXZBMVlBb2pWUU9neVpZend5TU9YREU0Y0F4czZaT25QOTVIM0JERnF5Wm5IcHJLM1NuM1JEbzI3dHM0M0tkMWlEaw?oc=5",
-   "source": "Sud Ouest",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:48:03.000Z"
-  },
-  {
-   "id": "ea1482b8e3ef",
-   "cat": "monde",
-   "title": "États-Unis : l'ICE est «hors de contrôle», estime un gouverneur démocrate",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUEc4S0lsSVc0bmlHNmlkUUo1SkgxWVhvR2NZZkRPbjhocGMwY09oNC1BNzI0R1ltTVpjSU9jX29UbVh5LTF1REw2b0pNS1VIcUFDZU5sLXBzSkNXeXNzSmRCWk1NX1FsR1ZTLU5CUzhuX0VMNzZuTkN2aFh2ZHo0NldPdHJSbUxqS2lMWFh0dWRubFVGM1oyLUdIcW5sNUJTcEdMRVZIUzV3emt3UDB1MGlYN01CZw?oc=5",
-   "source": "Le Figaro",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:47:25.000Z"
-  },
-  {
-   "id": "1976a5cd9087",
-   "cat": "monde",
-   "title": "L’Ouzbékistan, nouveau partenaire privilégié des Etats-Unis en Asie Centrale ?",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenBnTHpENXZUVm9veUVkSkJYVUNtOGVLQzg4dEE3T1RNeEpUZHhfLTBYTVdJM09IOGdUU0NEWTBzOFFkZ0NHRFhfQXdVaHNhS0stSXVMNHZpYmxnVFNaR1dvT056TXBQbjhHTHhtZElGTW5TYUVaZUxoNTcxd2wyejlkRzJqeF83RlRFQTBHX09VbTJhR2MyQi1pTVVfOFE1RGl0S2FVX1E3YmtpMURBTg?oc=5",
-   "source": "Novastan France",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:29:17.000Z"
-  },
-  {
-   "id": "cee8b873e7e8",
-   "cat": "monde",
-   "title": "Plus de 600 enfants tués dans la guerre menée par les États-Unis et Israël, selon l’Iran",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NZFg3dlgxREswaEFwamwzSGxvNmFDRzNtT2ZwT1VxNzgtT29LSFpISWFnbXdWVXlDeHBGQkU4UkZybTd3eWFEVFVRUC0xc0dwME5jS19aaDJyNFZG?oc=5",
-   "source": "TRT Français",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T11:17:30.000Z"
-  },
-  {
    "id": "a1c8c2ce8d9e",
    "cat": "monde",
    "title": "Arrestations de l’ICE dans un aéroport : le gouverneur de Washington dénonce une police de l’immigration « hors de contrôle »",
@@ -1404,73 +953,18 @@
    "source": "Le Monde",
    "lang": "fr",
    "image": "https://img.lemde.fr/2026/11/22/366/0/5400/2700/644/322/60/0/b9c17f6_ftp-1-7ozuvmva73gs-2026-11-22t052811z-384145033-rc2ssoaxtp9f-rtrmadp-3-usa-immigration-seattle.JPG",
-   "date": "2026-11-22T11:05:12.000Z"
-  },
-  {
-   "id": "3af773db5cb2",
-   "cat": "monde",
-   "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
-   "summary": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
-   "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
-   "source": "New York Times",
-   "lang": "en",
-   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
-   "date": "2026-11-22T10:55:16.000Z"
-  },
-  {
-   "id": "13d0956c05dc",
-   "cat": "monde",
-   "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
-   "summary": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
-   "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
-   "source": "New York Times",
-   "lang": "en",
-   "image": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
-   "date": "2026-11-22T10:54:59.000Z"
-  },
-  {
-   "id": "c6ae225af9d8",
-   "cat": "monde",
-   "title": "Rubio réaffirme le soutien des États-Unis à un Liban pleinement souverain",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFZpQmhiR3A3VTd4OF91eVFsWEp6VV8waVd1Ql9GekNRS3hjeUpGaVFtXzI4bGF0UW5TdHFqVVFnVzRqdkhiNElISlpLdEN6SDAwV1NBYWh2cGZ0NUEzdW0wUGtBNi11V3BRcGxYbHJBeDlWWUloOHBpaExvX2xlZHJWTkVVc1RZdy1tbUp1dUxXXzdFcGdGcGU2dGJ3QkZxa2JjN2RDZzJfR29xSlNaamNPU0I?oc=5",
-   "source": "Ici Beyrouth",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:52:58.000Z"
-  },
-  {
-   "id": "98ba44c36987",
-   "cat": "monde",
-   "title": "Le Mexique arrête un baron de la drogue recherché par les États-Unis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMjRIQTZpcmlDSkthUEtHWnFFOXpZa2JnMnphSFBQTDBfUF9VU2x2UHRSaHlsX3d3eG9TeDVfM1llaVdyYUxvUkNHZEVWaEhiUXVsVTZTbWg0MkxFMUkwMTlyWXRsUndTTjhaOEVoYUFyQURJV25GN1VFN1RxbXNRR0xGaG5SYnlsZkcxVEs3MHRyV1d6UGpVM0d1dEZIbjBsaGdmZWFrVFNoSDByZnNlMTRyYnRrNnVmWmw4NWkyenQzb3E2dXM3TzZ2SQ?oc=5",
-   "source": "France 24",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:51:19.000Z"
+   "date": "2026-11-22T11:05:11.000Z"
   },
   {
    "id": "7722982f4039",
    "cat": "monde",
-   "title": "EN DIRECT, guerre en Ukraine : quatorze personnes portées disparues à la suite de l’attaque par un drone russe d’un immeuble d’habitation près de Kiev",
-   "summary": "Une attaque de drone russe dans la nuit de samedi à dimanche dans le raïon de Vychhorod, non loin de Kiev, a endommagé un immeuble d’habitation de cinq étages, a rapporté le chef de l’administration militaire de l’oblast, précisant qu’un incendie s’est déclaré.",
+   "title": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque d’un immeuble d’habitation par un drone russe près de Kiev s’alourdit",
+   "summary": "Selon un nouveau communiqué de la police nationale ukrainienne, l’attaque d’un immeuble de cinq étages par un drone russe à Dymer – au nord de Kiev –, a provoqué la mort d’une femme, et fait trois blessés, dimanche. Quinze autres personnes sont toujours portées disparues.",
    "link": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html",
    "source": "Le Monde International",
    "lang": "fr",
-   "image": "https://img.lemde.fr/2026/11/22/441/0/3777/1888/644/322/60/0/f005d56_ftp-1-alc67he72l7p-afp-d8ab4zq.jpg",
+   "image": "https://img.lemde.fr/2026/11/22/412/0/4000/2000/644/322/60/0/ef07f84_upload-1-pdzgkfiy1fyq-bombardement-dymer-7.jpg",
    "date": "2026-11-22T10:50:43.000Z"
-  },
-  {
-   "id": "0e0033667e08",
-   "cat": "monde",
-   "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-   "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-   "link": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-   "source": "NYT Politics",
-   "lang": "en",
-   "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-bangladesh-protests-wtk-01-qvpf/22int-bangladesh-protests-wtk-01-qvpf-mediumSquareAt3X.jpg",
-   "date": "2026-11-22T10:22:20.000Z"
   },
   {
    "id": "2de0869942ef",
@@ -1484,17 +978,6 @@
    "date": "2026-11-22T10:19:56.000Z"
   },
   {
-   "id": "0d28654f7b57",
-   "cat": "monde",
-   "title": "\"Je suis outré\": le gouverneur de l'État de Washington considère l'ICE comme \"hors de contrôle\" après un nouvel incident lors d'une arrestation",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOc1JqZjAtTkFNTi00bEtpeFJzWnFwX1VVNWk1QnB6NUtxY3BDcHZFbWpnZ2VxUXRWMXhicmQtUnpENksyMTN1Xy1yNFVnTHpKbEpleGpsQlJ0UXhONlZjNzB0TzRjTk95OGp2T0RCUFJ4dG0zVFo0NEYtejF5WFE2bENTVTdmQ09yYnpNRWxTRUs2Y1FjejZkaXdtanNHMEhPZGFpWkhTSWxfSEpRSm90ZW5keVhJczFUOGVRWWRGN2dwX2RCNlBqdndZRE84ajYyZ203ejhpb1Q1bUFrbEtudmNIODIwOXZUVTVXZDFCUDJTckFKUk5DMldKQjlWU3VOUmJaaUR2b2VMaUFPMklyZm9Td2ZTbS1Ra2xHU2R1aTR2eFJ1azJnY2x4OEdjbkhzRkVidFRsS2p2bEpCZndWTFdn?oc=5",
-   "source": "BFM",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:15:49.000Z"
-  },
-  {
    "id": "b6df141d7093",
    "cat": "monde",
    "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
@@ -1504,50 +987,6 @@
    "lang": "en",
    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg",
    "date": "2026-11-22T10:02:17.000Z"
-  },
-  {
-   "id": "438acf5edc56",
-   "cat": "monde",
-   "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-   "summary": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
-   "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-   "source": "New York Times",
-   "lang": "en",
-   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-   "date": "2026-11-22T10:02:15.000Z"
-  },
-  {
-   "id": "471495803fc1",
-   "cat": "monde",
-   "title": "Il filme le Pentagone avec un drone durant ses vacances aux États-Unis : ce touriste français a passé 3 jours en prison",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQmR1WDB4U3JXbEZvRUN0SGRST1R0d0dnamluRlZtdEV4cmxXeE9XUjlkTmM3b3RDVE04cFRJNFF6dXhXTVVuc3Y4clJyNHFSRkJjRG9kX2JuWmhRbDRMTkFhMExCS1RBeTRKenRJWGVOTlFNcmpMSWNzenl4QzVVTl9WRldseXA5bVQwMlJuSXBoU240WWlsZjJPMkwwOWNkbkNOTTN0ajBmY1FDaG03b0F4dHg2LUZ3QzVOV3hOazFMVkExcEVXTkFNUm5IZXFmSlFaSW05bmJ3MUloOUtHWEZVaXNVRzR0RzNjOUV1QlMzYWJEMGVRWFVya0VRWlVTdHZfSjJNRDFRVTFCVHZJaW9QN1Bmd2pwOHc0b2ZEMHdIRkc5a2JNV0NYcw?oc=5",
-   "source": "Ouest-France",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:02:02.000Z"
-  },
-  {
-   "id": "787e4468955e",
-   "cat": "monde",
-   "title": "États-Unis : Le gendarme boursier américain va enquêter sur les pratiques comptables de Nvidia, en pleine affaire Huang",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOM1AtcldPU3RtMkxSeDBWVl95NWdBbnJ1bmVmel9panZlci1NQXNtT2VXUVMwOXgxdFB5UTRVaWdaT05RTWozeW1hRXNQaGcwcmQ2WE9pSnNEZmx3dGR6RmNSdEkyZWlBSEp4OUExeXF0S29FTDV1Y0d2eHUtcGlLQ3h0azV4STJWODRTV1RlRFNuaUFVdTN6SlVTZm9KMkFYbk9saEhEby1OcVhNWV9PTWl5Nm1pOURhZURHcFNXZEtfb19BblRTMUJQeFRuSW1iblNQX2hLLWJDejc4eG1jMGQ3M3FIaXphMjNja1ZkTWk4VFVPalBMekJYYkpob2FuTUxWU1BDNkVQSnlXbi1tNlg4eHJqcnROY3JxNVRiY0U?oc=5",
-   "source": "La Tribune",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T10:01:52.000Z"
-  },
-  {
-   "id": "0bf617f40088",
-   "cat": "monde",
-   "title": "La Géorgie remporte la première Coupe des Nations après une finale largement maîtrisée contre les États-Unis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaTh2NXp0VVlYQ3hMbmF0YkhNcmhIOGpITDJreGRqX1lrRGg4VV9PcW9ybV9MOEd0aVBfQ2V4Zmk5YjZ0el8xSWZnSXExSkE5dnltWHkwV01NNnZ1U3Q0eE01d3BUVHMxT2VSbXdvUk9JUlFNb2RzWElLaGIzcDFRSU9OczVvZnVWNHNDNkllVVJpQ3I4WVhRT1ZONjlaOFd1OENlaTNvREFZWFhySEdlY1h0MUVUMWVIWnAwa3RzVDRKU2NCRjE5dkN3VzRxaVhSRVlJTmFwU3pVRVU?oc=5",
-   "source": "Rugbyrama",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T09:38:00.000Z"
   },
   {
    "id": "9cccf8da055a",
@@ -1561,37 +1000,15 @@
    "date": "2026-11-22T09:30:06.000Z"
   },
   {
-   "id": "adf8e8e0bd40",
-   "cat": "monde",
-   "title": "États-Unis : les démocrates veulent sanctionner les violences en Judée-Samarie dès leur retour au pouvoir",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVGU5eUV4ZUhPTzFXSGxtQklKMWw3SVpKOG1HRjVhRktWMXE1ekZyYUVxbGYwb2lTWi1SNmRxTVBPM3FPM2NXaVVrWnlaWFZwbm9Ja0RrQlFMUUtQSDhJeHpNLWdHUWN5TkxfUmlsTzM4V0huVnppa1BZZ2Z0ZFpGQWRtZ3NtT1BuV0l1Nk5pUUtWVlg4UGRRVURPS0NrUUZkbkI0MW1ITmxIMXo4TmluTURoUmNVUHBPdzdoNUtSTEplMS1ONEZCTEtMZmY1dGt0QUJubkpZajVsRkJncm5jVlk1Ynk0M3BMcjgwOWVuT3dCU0VnS0E?oc=5",
-   "source": "i24NEWS",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T08:00:34.000Z"
-  },
-  {
    "id": "64e8d171eb27",
    "cat": "monde",
    "title": "L’historien et archéologue François-Xavier Fauvelle redonne à l’Afrique médiévale sa place dans le monde",
-   "summary": "L’historien et professeur au Collège de France a rassemblé plus de vingt ans de recherche dans cette synthèse exaustive des connaissances actuelles sur le sujet dont il est l’un des grands spécialistes.",
+   "summary": "Le professeur au Collège de France a rassemblé plus de vingt ans de recherche dans cette synthèse exaustive des connaissances actuelles sur le sujet dont il est l’un des grands spécialistes.",
    "link": "https://www.lemonde.fr/livres/article/2026/11/22/l-historien-et-archeologue-francois-xavier-fauvelle-redonne-a-l-afrique-medievale-sa-place-dans-le-monde_6814196_3260.html",
    "source": "Le Monde International",
    "lang": "fr",
    "image": "https://img.lemde.fr/2026/11/18/201/0/1535/767/644/322/60/0/a306a9f_upload-1-t3ipmrqpdi7e-bridgeman-5391584-1-ret-1.jpg",
-   "date": "2026-11-22T08:00:10.000Z"
-  },
-  {
-   "id": "9a53b7010237",
-   "cat": "monde",
-   "title": "Le «Mois franciscain» pour la paix et la sauvegarde de la création aux États-Unis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHVnOS1iemMxcHhtTlZOdW5oeDBNd0x6bHVPZk5nUVBUQVduQkdfa2IwbmRfd1NteTRWVmlWcFB5c2dXcDV5SjJGMXZuVndRdjVRd253YVprSzJtRDdoYTZpdjZWcVFnUWVSTFAyd0VteWk4NHVuYWZtbklwZ2ZnNE84dGgxa1BWbkZhT2tSY0pMRFpaV0Y0ZUg1VTVOenhWX2xvM0E5YmJLdUxXRTFrVG9JZkVZOGx6bWp3?oc=5",
-   "source": "Vatican News",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-22T07:26:48.000Z"
+   "date": "2026-11-22T08:00:03.000Z"
   },
   {
    "id": "ca50d9615d28",
@@ -1671,28 +1088,6 @@
    "date": "2026-11-22T05:00:11.000Z"
   },
   {
-   "id": "d1f958f110cb",
-   "cat": "monde",
-   "title": "Au sein du géant des boissons Castel, une crise de gouvernance amplifiée par une architecture complexe de holdings, de fonds et de trusts",
-   "summary": "La fille du fondateur de l’empire de la bière et du vin, Romy Castel, s’efforce d’évincer le directeur général opérationnel, protégé par une structure juridique et capitalistique complexe. Elle a remporté, en octobre, une importante victoire judiciaire.",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/22/au-sein-du-geant-des-boissons-castel-une-crise-de-gouvernance-amplifiee-par-une-architecture-complexe-de-holdings-de-fonds-et-de-trusts_6814144_3234.html",
-   "source": "Le Monde International",
-   "lang": "fr",
-   "image": "https://img.lemde.fr/2026/11/20/300/0/6000/3000/644/322/60/0/32d4da3_upload-1-ahetya9ynjni-20260629sdo6447.jpg",
-   "date": "2026-11-22T04:30:07.000Z"
-  },
-  {
-   "id": "9809e0e14263",
-   "cat": "monde",
-   "title": "Au Portugal, des manifestations contre les faibles salaires et l’explosion du prix des logements",
-   "summary": "Dans un contexte de fort mécontentement économique, deux cortèges se sont succédé sous la pluie à Lisbonne, samedi 21 novembre, à trois jours du vote du budget 2027.",
-   "link": "https://www.lemonde.fr/international/article/2026/11/22/au-portugal-des-manifestations-contre-les-faibles-salaires-et-l-explosion-du-prix-des-logements_6814143_3210.html",
-   "source": "Le Monde International",
-   "lang": "fr",
-   "image": "https://img.lemde.fr/2026/11/21/1089/0/8469/4234/644/322/60/0/c1221d3_ftp-1-fvs0ezi6uafp-bc9d0d1faeab42a08710e91e6d380918-0-6a197df28ea741a58bc9ab7fa3d27abb.jpg",
-   "date": "2026-11-22T04:15:11.000Z"
-  },
-  {
    "id": "e3281306dcda",
    "cat": "monde",
    "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
@@ -1770,17 +1165,6 @@
    "date": "2026-11-21T22:42:42.000Z"
   },
   {
-   "id": "dec6702d7009",
-   "cat": "monde",
-   "title": "Denzel Washington brille sur Netflix avec ce chef-d'œuvre bourré d'action : l'un de ses meilleurs films qui vous garantit des sensations fortes à chaque seconde",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95WEMzVUJlQUZ5enZpRDJ3UTIwVy1YNjViUUphSU9YQldQVlF4T3o3ZGJ2YnUzTjRraTFtbXEzUkQwcWFoanJ5b2o1cXRyQUNvVm4tOFAxUk9pZU9wSjV0dF9Lc2VvdDFiaUVrcUtrNGk5bUh6VGw0STJMaFVPZw?oc=5",
-   "source": "AlloCiné",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T20:31:24.000Z"
-  },
-  {
    "id": "d03fea3c641e",
    "cat": "monde",
    "title": "2-Year-Old Girl Wearing Only a Diaper Is Rescued After Hours in the Desert",
@@ -1803,17 +1187,6 @@
    "date": "2026-11-21T19:58:02.000Z"
   },
   {
-   "id": "fe1d59632247",
-   "cat": "monde",
-   "title": "L’adidas arena se rend aux États-Unis",
-   "summary": "",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZTWgwdzdYQzdXS3VVSE5sbUVUV1VGQnBqQ0NpRHBLV1BGeDlCbFB4TnBvbjlObEQxalItdzh6Y3NCRm1KQVFnV0xXSTVHSkZ3Mzd1b2RJX1ZYQ1YyZHRPOVlsaFRBZjREdVVXYjdQRUVRRDV6TlhvNmV5Vy1qZw?oc=5",
-   "source": "Paris Basketball",
-   "lang": "fr",
-   "image": "",
-   "date": "2026-11-21T19:43:53.000Z"
-  },
-  {
    "id": "ad6a10a5f84a",
    "cat": "monde",
    "title": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
@@ -1823,6 +1196,17 @@
    "lang": "fr",
    "image": "https://img.lemde.fr/2026/11/20/628/0/7535/3767/644/322/60/0/4576432_ftp-1-aspwiaitmumo-afp-d87p7kn.jpg",
    "date": "2026-11-21T19:43:19.000Z"
+  },
+  {
+   "id": "c77fb7e07859",
+   "cat": "monde",
+   "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+   "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+   "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+   "source": "New York Times",
+   "lang": "en",
+   "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+   "date": "2026-11-21T19:11:51.000Z"
   },
   {
    "id": "99fb9d3a9461",
@@ -1988,6 +1372,127 @@
    "lang": "en",
    "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20dc-trump-takeaways-zphf/20dc-trump-takeaways-zphf-mediumSquareAt3X.jpg",
    "date": "2026-11-21T02:15:29.000Z"
+  },
+  {
+   "id": "64a3ceeb6580",
+   "cat": "monde",
+   "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+   "summary": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+   "link": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+   "source": "Le Monde",
+   "lang": "fr",
+   "image": "https://img.lemde.fr/2025/01/28/419/0/5012/2506/644/322/60/0/808575d_ftp-import-images-1-gkgor4t7ipjj-5869023-01-06.jpg",
+   "date": "2026-11-21T01:35:32.000Z"
+  },
+  {
+   "id": "e627d923d738",
+   "cat": "monde",
+   "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+   "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
+   "link": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "date": "2026-11-21T01:19:25.000Z"
+  },
+  {
+   "id": "b6a86b6c32d1",
+   "cat": "monde",
+   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+   "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce4e/live/03859c80-e56d-11f1-a6ac-55a3d46eac91.jpg",
+   "date": "2026-11-21T01:02:39.000Z"
+  },
+  {
+   "id": "c634f65c1272",
+   "cat": "monde",
+   "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+   "summary": "Trump backed members of his administration who are asking for $50bn to rebuild air traffic control systems in the wake of last Friday's major outage.",
+   "link": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/fa18ad10-e533-11f1-bffc-2f34a47495d4.jpg",
+   "date": "2026-11-21T01:02:08.000Z"
+  },
+  {
+   "id": "b7fdc1f987cb",
+   "cat": "monde",
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+   "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+   "date": "2026-11-21T00:01:39.000Z"
+  },
+  {
+   "id": "16c2a3dbb52b",
+   "cat": "monde",
+   "title": "US declassifies more UFO footage filmed in the Middle East",
+   "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+   "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/029f/live/9fdeb250-e537-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T23:15:20.000Z"
+  },
+  {
+   "id": "97715f31a473",
+   "cat": "monde",
+   "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T23:08:57.000Z"
+  },
+  {
+   "id": "94f0904419f1",
+   "cat": "monde",
+   "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+   "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c49e/live/643c4b60-e530-11f1-a67d-39d55c7178b0.jpg",
+   "date": "2026-11-20T22:57:26.000Z"
+  },
+  {
+   "id": "0bd2b7115aa2",
+   "cat": "monde",
+   "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
+   "summary": "The location of the hat and the 2,400-pound animal's anatomy made removal unfeasible, the zoo said.",
+   "link": "https://www.bbc.co.uk/news/articles/cwly43km54n6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/050f/live/2756fbd0-e537-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T22:14:33.000Z"
+  },
+  {
+   "id": "0c5c416688d4",
+   "cat": "monde",
+   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+   "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+   "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg",
+   "date": "2026-11-20T19:27:49.000Z"
+  },
+  {
+   "id": "efd35532b8a5",
+   "cat": "monde",
+   "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
+   "summary": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
+   "link": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC US & Canada",
+   "lang": "en",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b70/live/4733dfb0-e512-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T18:48:48.000Z"
   }
  ],
  "ai": null
